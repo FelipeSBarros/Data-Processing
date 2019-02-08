@@ -5,7 +5,6 @@ install.packages("tidyverse", dependencies = T)
 library(tidyverse)
 library(rgbif)
 
-gggg
 ## GBIF database
 ## Informations to use RGBIF packages - https://cloud.r-project.org/web/packages/rgbif/vignettes/rgbif_vignette.html
 ## loading packages
