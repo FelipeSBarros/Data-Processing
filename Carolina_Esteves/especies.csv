@@ -1,0 +1,81 @@
+id_site,familia,especie,abundancia,especialista_floresta,endemismo,abundance.metric
+Ilha Anchieta/S1,Callitrichidae,Callithrix penicillata,10,sim,OB,4.2 registros/km
+Ilha Anchieta/S10,Callitrichidae,Callithrix penicillata,3,sim,OB,1.3 registros/km
+Ilha Anchieta/S11,Callitrichidae,Callithrix penicillata,2,sim,OB,0.8 registros/km
+Ilha Anchieta/S12,Callitrichidae,Callithrix penicillata,5,sim,OB,2.1 registros/km
+Ilha Anchieta/S2,Callitrichidae,Callithrix penicillata,9,sim,OB,3.8 registros/km
+Ilha Anchieta/S3,Callitrichidae,Callithrix penicillata,9,sim,OB,3.8 registros/km
+Ilha Anchieta/S4,Callitrichidae,Callithrix penicillata,22,sim,OB,4.6 registros/km 
+Ilha Anchieta/S5,Callitrichidae,Callithrix penicillata,27,sim,OB,3.6 registros/km
+Ilha Anchieta/S6,Callitrichidae,Callithrix penicillata,12,sim,OB,5.0 registros/km
+Ilha Anchieta/S7,Callitrichidae,Callithrix penicillata,7,sim,OB,2.9 registros/km
+Ilha Anchieta/S8,Callitrichidae,Callithrix penicillata,12,sim,OB,2.5 registros/km
+Ilha Anchieta/S9,Callitrichidae,Callithrix penicillata,16,sim,OB,6.7 registros/km
+Ilha Anchieta/S1,Cuniculidae,Cuniculus paca,3,sim,OB,0.2 registros/dia
+Ilha Anchieta/S10,Cuniculidae,Cuniculus paca,3,sim,OB,0.3 registros/dia
+Ilha Anchieta/S12,Cuniculidae,Cuniculus paca,1,sim,OB,0.4 registros/km
+Ilha Anchieta/S2,Cuniculidae,Cuniculus paca,1,sim,OB,0.1 registros/dia
+Ilha Anchieta/S3,Cuniculidae,Cuniculus paca,1,sim,OB,0.05 registros/dia
+Ilha Anchieta/S6,Cuniculidae,Cuniculus paca,4,sim,OB,0.3 registros/dia
+Ilha Anchieta/S8,Cuniculidae,Cuniculus paca,2,sim,OB,0.1 registros/dia
+Ilha Anchieta/S9,Cuniculidae,Cuniculus paca,1,sim,OB,0.2 registros/dia
+Ilha Anchieta/S1, Dasyproctidae,Dasyprocta sp.,23,não,D,2.5 registros/km e 0.9 registros/dia
+Ilha Anchieta/S10, Dasyproctidae,Dasyprocta sp.,17,não,D,4.2 registros/km e 0.8 registros/dia
+Ilha Anchieta/S11, Dasyproctidae,Dasyprocta sp.,18,não,D,1.7 registros/km e 0.6 registros/dia
+Ilha Anchieta/S12, Dasyproctidae,Dasyprocta sp.,20,não,D,1.3 registros/km e 1.3 registros/dia
+Ilha Anchieta/S2, Dasyproctidae,Dasyprocta sp.,19,não,D,6.7 registros/km e 0.2 registros/dia
+Ilha Anchieta/S3, Dasyproctidae,Dasyprocta sp.,20,não,D,2.5 registros/km e  0.6 registros/dia
+Ilha Anchieta/S4, Dasyproctidae,Dasyprocta sp.,21,não,D,2.7 registros/km e 0.7 registros/dia
+Ilha Anchieta/S5, Dasyproctidae,Dasyprocta sp.,55,não,D,3.5 registros/km e 1.4 registros/dia
+Ilha Anchieta/S6, Dasyproctidae,Dasyprocta sp.,25,não,D,5.0 registros/km e 0.8 registros/dia
+Ilha Anchieta/S7, Dasyproctidae,Dasyprocta sp.,13,não,D,2.1 registros/km e 0.6 registros/dia
+Ilha Anchieta/S8, Dasyproctidae,Dasyprocta sp.,47,não,D,3.1 registros/km e 1.5 registros/dia
+Ilha Anchieta/S9, Dasyproctidae,Dasyprocta sp.,15,não,D,5.4 registros/km e 0.3 registros/dia
+Ilha Anchieta/S1,Dasypodidae,Dasypus novemcinctus,6,não,OB,2.1 registros/km e 0.1 registros/dia
+Ilha Anchieta/S10,Dasypodidae,Dasypus novemcinctus,9,não,OB,3.8 registros/km
+Ilha Anchieta/S11,Dasypodidae,Dasypus novemcinctus,5,não,OB,2.1 registros/km
+Ilha Anchieta/S12,Dasypodidae,Dasypus novemcinctus,11,não,OB,3.3 registros/km e 0.2 registros/dia
+Ilha Anchieta/S2,Dasypodidae,Dasypus novemcinctus,9,não,OB,2.9 registros/km e 0.1 registros/dia
+Ilha Anchieta/S3,Dasypodidae,Dasypus novemcinctus,7,não,OB,2.9 registros/km
+Ilha Anchieta/S4,Dasypodidae,Dasypus novemcinctus,11,não,OB,2.3 registros/km
+Ilha Anchieta/S5,Dasypodidae,Dasypus novemcinctus,25,não,OB,2.8 registros/km e 0.2 registros/dia
+Ilha Anchieta/S6,Dasypodidae,Dasypus novemcinctus,8,não,OB,3.3 registros/km
+Ilha Anchieta/S7,Dasypodidae,Dasypus novemcinctus,9,não,OB,2.1 registros/km e 0.3 registros/dia
+Ilha Anchieta/S8,Dasypodidae,Dasypus novemcinctus,14,não,OB,2.3 registros/km e 0.1 registros/dia
+Ilha Anchieta/S9,Dasypodidae,Dasypus novemcinctus,9,não,OB,3.3 registros/km e 0.2 registros/dia
+Ilha Anchieta/S1,Didelphidae,Didelphis aurita,2,não,OB,0.1 registros/dia
+Ilha Anchieta/S10,Didelphidae,Didelphis aurita,2,não,OB,0.4 registros/km e 0.1 registros/dia
+Ilha Anchieta/S12,Didelphidae,Didelphis aurita,5,não,OB,0.4 registros/dia
+Ilha Anchieta/S2,Didelphidae,Didelphis aurita,2,não,OB,0.1 registros/dia
+Ilha Anchieta/S3,Didelphidae,Didelphis aurita,3,não,OB,0.1 registros/dia
+Ilha Anchieta/S4,Didelphidae,Didelphis aurita,3,não,OB,0.3 registros/dia
+Ilha Anchieta/S5,Didelphidae,Didelphis aurita,4,não,OB,0.1 registros/km e 0.1 registros/dia
+Ilha Anchieta/S6,Didelphidae,Didelphis aurita,1,não,OB,0.1 registros/dia
+Ilha Anchieta/S7,Didelphidae,Didelphis aurita,2,não,OB,0.1 registros/dia
+Ilha Anchieta/S8,Didelphidae,Didelphis aurita,2,não,OB,0.1 registros/dia
+Ilha Anchieta/S9,Didelphidae,Didelphis aurita,3,não,OB,0.5 registros/dia
+Ilha Anchieta/S1,Caviidae,Hydrochoerus hydrochaeris,6,não,OB,2.5 registros/km
+Ilha Anchieta/S10,Caviidae,Hydrochoerus hydrochaeris,6,não,OB,2.1 registros/km e 0.1 registros/dia
+Ilha Anchieta/S11,Caviidae,Hydrochoerus hydrochaeris,6,não,OB,1.3 registros/km e 0.1 registros/dia
+Ilha Anchieta/S12,Caviidae,Hydrochoerus hydrochaeris,4,não,OB,1.7 registros/km
+Ilha Anchieta/S2,Caviidae,Hydrochoerus hydrochaeris,7,não,OB,2.5 registros/km e 0.1 registros/dia
+Ilha Anchieta/S3,Caviidae,Hydrochoerus hydrochaeris,1,não,OB,0.4 registros/km
+Ilha Anchieta/S4,Caviidae,Hydrochoerus hydrochaeris,7,não,OB,1.5 registros/km
+Ilha Anchieta/S5,Caviidae,Hydrochoerus hydrochaeris,7,não,OB,1.0 registros/km
+Ilha Anchieta/S6,Caviidae,Hydrochoerus hydrochaeris,4,não,OB,0.4 registros/km e 0.2 registros/dia
+Ilha Anchieta/S7,Caviidae,Hydrochoerus hydrochaeris,3,não,OB,1.3 registros/km
+Ilha Anchieta/S8,Caviidae,Hydrochoerus hydrochaeris,25,não,OB,3.8 registros/km e 0.3 registros/dia
+Ilha Anchieta/S9,Caviidae,Hydrochoerus hydrochaeris,2,não,OB,0.8 registros/dia
+Ilha Anchieta/S1,Procyonidae,Nasua nasua,3,sim,OB,1.3 registros/km
+Ilha Anchieta/S10,Procyonidae,Nasua nasua,2,sim,OB,0.2 registros/dia
+Ilha Anchieta/S11,Procyonidae,Nasua nasua,2,sim,OB,0.4 registros/km
+Ilha Anchieta/S12,Procyonidae,Nasua nasua,6,sim,OB,2.1 registros/km e 0.1 registros/dia
+Ilha Anchieta/S2,Procyonidae,Nasua nasua,8,sim,OB,2.9 registros/km e 0.1 registros/dia
+Ilha Anchieta/S4,Procyonidae,Nasua nasua,5,sim,OB,0.8 registros/km e 0.1 registros/dia
+Ilha Anchieta/S5,Procyonidae,Nasua nasua,6,sim,OB,0.7 registros/km
+Ilha Anchieta/S6,Procyonidae,Nasua nasua,2,sim,OB,0.4 registros/km e 0.1 registros/dia
+Ilha Anchieta/S8,Procyonidae,Nasua nasua,3,sim,OB,0.2 registros/km e 0.1 registros/dia
+Ilha Anchieta/S9,Procyonidae,Nasua nasua,2,sim,OB,0.4 registros/km e 0.2 registros/dia
+Ilha Anchieta/S5,Cebidae,Sapajus nigritus,5,sim,OB,0.7 registros/km
+Ilha Anchieta/S3,Echimyidae,Trinomys iheringi,2,sim,MA-BR,0.1 registros/dia
+Ilha Anchieta/S8,Echimyidae,Trinomys iheringi,2,sim,MA-BR,0.1 registros/dia

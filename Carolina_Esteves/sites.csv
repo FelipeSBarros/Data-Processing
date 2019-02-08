@@ -1,0 +1,13 @@
+id_estudo,id_site,long,lat,utm_zona,precisao,municipio,ano_inicio,ano_fim,metodo,esforco,tipo_floresta,matriz_circundante
+Carolina_Esteves,Ilha Ancheita/S1,7397212,491983,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"20 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S2,7397877,494047,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"19 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S3,7396996,495183,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"22 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S4,7395311,492053,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"12 armadilhas-dia e 4,8 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S5,7397266,494078,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"22 armadilhas-dia e 7,2 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S6,7396362,492640,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"16 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S7,7395813,493684,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"14 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S8,7396679,493707,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"22 armadilhas-dia e 4,8 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S9,7396447,494696,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"6 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S10,7396686,492068,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"9 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S11,7395914,492370,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"23 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano
+Carolina_Esteves,Ilha Ancheita/S12,7396145,494085,23S,5-10 m,Ilha Anchieta/Ubatuba,2008,2009,Camera-trap e transectos,"13 armadilhas-dia e 2,4 km",Floresta Ombrófila Densa secundária,Água/Oceano

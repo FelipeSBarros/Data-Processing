@@ -1,0 +1,10 @@
+id_estudo,id_site,long,lat,utm_zona,precisao,municipio,ano_inicio,ano_fim,metodo,esforco,tipo_floresta,matriz_circundante,ano
+Thomas_Puttker,Dragao,-47.104547,-23.718322,23S,,,2008,2008,Pitfall + Sherman traps,4400 trap-nights,Floresta_Ombrofila_Densa_secundaria,Pasto_principalmente_e_agricultura,2008
+Thomas_Puttker,Tucano,-47.087539,-23.725908,23S,,,2008,2008,Pitfall + Sherman traps,4400 trap-nights,Floresta_Ombrofila_Densa_secundaria,Pasto_principalmente_e_agricultura,2008
+Thomas_Puttker,Dito Andre,-47.058975,-23.735703,23S,,,2008,2008,Pitfall + Sherman traps,4400 trap-nights,Floresta_Ombrofila_Densa_secundaria,Pasto_principalmente_e_agricultura,2008
+Thomas_Puttker,Horacio,-47.443661,-23.888647,23S,,,2008,2008,Pitfall + Sherman traps,4400 trap-nights,Floresta_Ombrofila_Densa_secundaria,Pasto_principalmente_e_agricultura,2008
+Thomas_Puttker,Jeanzao Norte,-47.442572,-23.863003,23S,,,2008,2008,Pitfall + Sherman traps,4400 trap-nights,Floresta_Ombrofila_Densa_secundaria,Pasto_principalmente_e_agricultura,2008
+Thomas_Puttker,Romulo,-47.471764,-23.912625,23S,,,2008,2008,Pitfall + Sherman traps,4400 trap-nights,Floresta_Ombrofila_Densa_secundaria,Pasto_principalmente_e_agricultura,2008
+Thomas_Puttker,M1 (continuo),-46.961239,-23.673047,23S,,,2008,2009,Pitfall + Sherman traps,18480 trap-nights,Floresta_Ombrofila_Densa_secundaria,Mata_continua,2008
+Thomas_Puttker,M2 (continuo),-46.950186,-23.683281,23S,,,2008,2009,Pitfall + Sherman traps,18480 trap-nights,Floresta_Ombrofila_Densa_secundaria,Mata_continua,2008
+Thomas_Puttker,M3 (continuo),-46.954553,-23.717311,23S,,,2008,2009,Pitfall + Sherman traps,18480 trap-nights,Floresta_Ombrofila_Densa_secundaria,Mata_continua,2008

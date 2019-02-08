@@ -1,0 +1,66 @@
+id_estudo,Responsável ,Taxon,Nome/ID do site,Tipo/qualidade da floresta,Matriz circundante,Coordenadas S,Coordenadas O,Zona UTM,Municipios,Ano de coleta,Método de coleta,Esforço amostral, Coordenadas O (X) Decimais,Coordenadas S (Y) - Decimais,Riqueza total,Riqueza_spp dependentes de floresta,Abundância total,Abundância_spp dependentes de floresta,Esforço
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Alce,,,-23.8507331,-47.45995383,,,,,,-47.45995383,-23.8507331,32,25,135,112,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Alcides,,,-23.74381762,-47.06421071,,,,,,-47.06421071,-23.74381762,29,23,82.15613383,65.72490706,538
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Alteres,,,-24.05668239,-48.32583406,,,,,,-48.32583406,-24.05668239,27,21,93.24099723,64.98614958,722
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Antenor Frag,,,-23.91946514,-47.45190626,,,,,,-47.45190626,-23.91946514,27,23,64,58,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Areial,,,-24.20919209,-48.16844414,,,,,,-48.16844414,-24.20919209,21,19,63.79530917,60.89552239,469
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Baleia,,,-23.88849183,-47.45997071,,,,,,-47.45997071,-23.88849183,22,17,52,42,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Beto Jamil,,,-23.71472333,-47.0719501,,,,,,-47.0719501,-23.71472333,24,19,95.3271028,68.63551402,535
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Bicudinho,,,-23.88570593,-47.48279138,,,,,,-47.48279138,-23.88570593,21,17,76,53,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Boiadeiro,,,-24.09509986,-48.32713082,,,,,,-48.32713082,-24.09509986,22,15,91.78519594,66.12481858,689
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Bojado,,,-24.05575327,-48.35180151,,,,,,-48.35180151,-24.05575327,26,20,119.887165,104.5416079,709
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Campinho,,,-24.24148094,-48.2958006,,,,,,-48.2958006,-24.24148094,33,28,110.928382,91.98938992,754
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Capinzal,,,-24.18021937,-48.23408171,,,,,,-48.23408171,-24.18021937,32,29,91.10497238,82.6519337,724
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Carmo Messias,,,-23.7497359,-47.05506439,,,,,,-47.05506439,-23.7497359,17,12,84.21441774,55.30499076,541
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Citadini,,,-24.06358454,-48.39312174,,,,,,-48.39312174,-24.06358454,24,19,109.8989899,79.48051948,693
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Cobrinha,,,-23.96109113,-47.40548484,,,,,,-47.40548484,-23.96109113,36,33,120,110,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Criscross,,,-23.95719435,-47.37691681,,,,,,-47.37691681,-23.95719435,32,30,137,130,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Cristo,,,-23.85083798,-47.47537404,,,,,,-47.47537404,-23.85083798,24,20,80,68,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Cromossomo,,,-24.09909312,-48.30015728,,,,,,-48.30015728,-24.09909312,31,25,158.1395349,132.4418605,688
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Dito,,,-23.76792203,-47.04535373,,,,,,-47.04535373,-23.76792203,17,13,51.62962963,36.51851852,540
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Dito Andre,,,-23.73515342,-47.05855256,,,,,,,,24,21,85.47134935,72.90203327,541
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Divisa,,,-24.06315441,-48.37483743,,,,,,-48.37483743,-24.06315441,36,26,127.6164384,99.67123288,730
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Dn. Ivone,,,-23.85403485,-47.44875886,,,,,,-47.44875886,-23.85403485,30,20,74,52,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Eme,,,-23.87585849,-47.47995305,,,,,,-47.47995305,-23.87585849,25,20,85,69,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Escumador,,,-24.20507381,-48.19754193,,,,,,-48.19754193,-24.20507381,19,18,60.64327485,58.65497076,684
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Estrada,,,-23.87321665,-47.49038606,,,,,,-47.49038606,-23.87321665,29,18,71,50,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Falopio,,,-24.05648329,-48.30011629,,,,,,-48.30011629,-24.05648329,31,22,152.6330935,115.4532374,695
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Fuzue,,,-23.84332019,-47.4493131,,,,,,-47.4493131,-23.84332019,24,20,70,61,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Godoy,,,-23.72404599,-47.07291141,,,,,,-47.07291141,-23.72404599,27,23,89.40740741,74.2962963,540
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Haras,,,-23.85704797,-47.42206008,,,,,,-47.42206008,-23.85704797,23,18,36,27,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Harpa,,,-24.04898308,-48.31344301,,,,,,-48.31344301,-24.04898308,27,18,101.2965517,70.34482759,725
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Japones,,,-23.69363871,-47.06676395,,,,,,-47.06676395,-23.69363871,32,22,155.8595194,105.5822551,541
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Jeanzao,,,-23.86735408,-47.4433556,,,,,,-47.4433556,-23.86735408,29,24,89,76,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Jeanzinho,,,-23.90250589,-47.46532182,,,,,,-47.46532182,-23.90250589,33,27,87,74,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Lila,,,-23.72993276,-47.11752789,,,,,,-47.11752789,-23.72993276,28,22,127.1851852,100.7407407,540
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Linha,,,-23.86719294,-47.47153308,,,,,,-47.47153308,-23.86719294,32,25,109,90,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Lira,,,-24.04092646,-48.30900161,,,,,,-48.30900161,-24.04092646,21,15,67.04225352,51.71830986,710
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Luiza Osmal,,,-23.73739287,-47.06191253,,,,,,-47.06191253,-23.73739287,22,16,86.61596958,58.17490494,526
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Machucado,,,-24.08203782,-48.38650567,,,,,,-48.38650567,-24.08203782,25,18,109.9844479,80.37325039,643
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Maria,,,-23.71474308,-47.08726712,,,,,,-47.08726712,-23.71474308,27,21,76.95732839,59.29499072,539
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Medico,,,-23.91323241,-47.47973348,,,,,,-47.47973348,-23.91323241,39,35,110,99,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Meninas,,,-24.06565494,-48.31816771,,,,,,-48.31816771,-24.06565494,23,13,103.9428571,74.8,700
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Mioko,,,-23.72451988,-47.06177858,,,,,,-47.06177858,-23.72451988,19,14,70.61538462,48.38461538,520
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Nelson,,,-23.71124927,-47.09726216,,,,,,-47.09726216,-23.71124927,27,21,87.6611418,73.88581952,543
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Odorico,,,-23.88029539,-47.43558827,,,,,,-47.43558827,-23.88029539,31,29,98,93,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Osasco,,,-23.9073892,-47.45348489,,,,,,-47.45348489,-23.9073892,33,24,102,77,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Padre Pedro,,,-24.0864056,-48.34665907,,,,,,-48.34665907,-24.0864056,21,13,78.03278689,60.804769,671
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Paulo Nunes,,,-24.10148836,-48.33789237,,,,,,-48.33789237,-24.10148836,28,18,145.1685393,102.1910112,712
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Pedro,,,-23.71339797,-47.09059925,,,,,,-47.09059925,-23.71339797,28,22,119.7798165,91.08256881,545
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Pedro Onorio,,,-24.0946797,-48.37000657,,,,,,-48.37000657,-24.0946797,22,13,85.37226277,49.6350365,685
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Pedroso,,,-23.73545924,-47.07417081,,,,,,-47.07417081,-23.73545924,31,26,128.3738318,104.2242991,535
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Piramba,,,-23.951386,-47.40958719,,,,,,-47.40958719,-23.951386,35,33,136,129,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Porteira,,,-23.94696405,-47.39624546,,,,,,-47.39624546,-23.94696405,40,38,103,94,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Professor,,,-23.91797732,-47.46927814,,,,,,-47.46927814,-23.91797732,34,27,90,76,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Radialista,,,-24.10712495,-48.34541585,,,,,,-48.34541585,-24.10712495,33,21,137.1843251,86.85050798,689
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Radji,,,-24.09647317,-48.39407849,,,,,,-48.39407849,-24.09647317,21,12,81.63841808,56.66666667,708
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Reizinho,,,-23.68941811,-47.09060931,,,,,,-47.09060931,-23.68941811,23,17,59.07578558,50.27726433,541
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,T1,,,-23.67529012,-46.95858157,,,,,,,,30,24,193.5580524,152.8089888,534
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,T2,,,-23.69557844,-46.95643301,,,,,,,,34,28,130.962963,98.22222222,540
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,T3,,,-23.71464612,-46.9451067,,,,,,,,36,31,212.8913444,170.3130755,543
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Takimoto,,,-23.7016717,-47.08176448,,,,,,-47.08176448,-23.7016717,31,25,162.6915888,120.7476636,535
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Teomar,,,-23.83308984,-47.4460886,,,,,,-47.4460886,-23.83308984,22,20,93,86,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Tereza,,,-23.70808181,-47.07168827,,,,,,-47.07168827,-23.70808181,21,15,66.98884758,49.2936803,538
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Torres,,,-23.89254446,-47.47854344,,,,,,-47.47854344,-23.89254446,15,14,54,53,680
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,TR,,,-23.7960889,-46.9966061,,,,,,,,24,21,83.39622642,68,530
+Cristina_BanksLeite,Cristina Banks-Leite,Aves,Yoko,,,-24.04731877,-48.37511057,,,,,,-48.37511057,-24.04731877,24,16,133.3518776,92.68428373,719

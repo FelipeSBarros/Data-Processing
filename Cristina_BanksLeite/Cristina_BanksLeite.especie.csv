@@ -1,0 +1,1766 @@
+id_site,especie,abundance,especialista_floresta,endemismo
+Alce,Platyrinchus mystaceus,13,Generalists,N
+Alce,Lathrotriccus euleri,1,Generalists,N
+Alce,Sittasomus griseicapillus,1,Forest,N
+Alce,Basileuterus culicivorus,10,Generalists,N
+Alce,Mionectes rufiventris,2,Generalists,Y
+Alce,Myiothlypis leucoblephara,2,Generalists,Y
+Alce,Dysithamnus mentalis,5,Generalists,N
+Alce,Tolmomyias sulphurescens,2,Generalists,N
+Alce,Haplospiza unicolor,1,Forest,Y
+Alce,Synallaxis ruficapilla,1,Generalists,Y
+Alce,Leptopogon amaurocephalus,1,Generalists,N
+Alce,Trichothraupis melanops,7,Generalists,N
+Alce,Chiroxiphia caudata,11,Generalists,Y
+Alce,Conopophaga lineata,7,Generalists,Y
+Alce,Thamnophilus caerulescens,3,Generalists,N
+Alce,Lepidocolaptes fuscus,8,Forest,Y
+Alce,Tachyphonus coronatus,2,Generalists,Y
+Alce,Picumnus temminckii,2,Generalists,Y
+Alce,Pyriglena leucoptera,8,Forest,Y
+Alce,Dendrocolaptes platyrostris,2,Forest,N
+Alce,Sclerurus scansor,2,Forest,Y
+Alce,Syndactyla rufosuperciliata,3,Generalists,N
+Alce,Attila rufus,2,Forest,Y
+Alce,Turdus albicollis,19,Generalists,N
+Alce,Turdus rufiventris,4,Generalists,N
+Alce,Leptotila verreauxi,1,Generalists,N
+Alce,Grallaria varia,1,Generalists,N
+Alce,Turdus leucomelas,1,Generalists,N
+Alce,Phaethornis eurynome,6,Forest,Y
+Alce,Thalurania glaucopis,4,Forest,Y
+Alce,Melanotrochilus fuscus,2,Generalists,Y
+Alce,Phaethornis squalidus,1,Forest,N
+Alcides,Platyrinchus mystaceus,2,Generalists,N
+Alcides,Leptopogon amaurocephalus,1,Generalists,N
+Alcides,Lathrotriccus euleri,1,Generalists,N
+Alcides,Hemitriccus diops,2,Forest,Y
+Alcides,Hylophilus poicilotis,1,Generalists,Y
+Alcides,Dysithamnus mentalis,1,Generalists,N
+Alcides,Tolmomyias sulphurescens,2,Generalists,N
+Alcides,Basileuterus culicivorus,5,Generalists,N
+Alcides,Myiothlypis leucoblephara,4,Generalists,Y
+Alcides,Chiroxiphia caudata,2,Generalists,Y
+Alcides,Sittasomus griseicapillus,2,Forest,N
+Alcides,Mionectes rufiventris,1,Generalists,Y
+Alcides,Drymophila malura,3,Generalists,Y
+Alcides,Synallaxis ruficapilla,4,Generalists,Y
+Alcides,Trichothraupis melanops,3,Generalists,N
+Alcides,Thamnophilus caerulescens,2,Generalists,N
+Alcides,Lepidocolaptes fuscus,3,Forest,Y
+Alcides,Tachyphonus coronatus,5,Generalists,Y
+Alcides,Pyriglena leucoptera,1,Forest,Y
+Alcides,Conopophaga lineata,5,Generalists,Y
+Alcides,Syndactyla rufosuperciliata,2,Generalists,N
+Alcides,Turdus rufiventris,2,Generalists,N
+Alcides,Saltator similis,1,Generalists,N
+Alcides,Dendrocolaptes platyrostris,2,Forest,N
+Alcides,Malacoptila striata,1,Generalists,Y
+Alcides,Turdus albicollis,3,Generalists,N
+Alcides,Sclerurus scansor,1,Forest,Y
+Alcides,Todirostrum plumbeiceps,2,Generalists,N
+Alcides,Phaethornis eurynome,1,Forest,Y
+Alteres,Dysithamnus mentalis,9,Generalists,N
+Alteres,Platyrinchus mystaceus,4,Generalists,N
+Alteres,Hemitriccus diops,2,Forest,Y
+Alteres,Basileuterus culicivorus,8,Generalists,N
+Alteres,Myiothlypis leucoblephara,4,Generalists,Y
+Alteres,Mionectes rufiventris,1,Generalists,Y
+Alteres,Corythopis delalandi,1,Generalists,N
+Alteres,Leptopogon amaurocephalus,2,Generalists,N
+Alteres,Trichothraupis melanops,6,Generalists,N
+Alteres,Conopophaga lineata,9,Generalists,Y
+Alteres,Chiroxiphia caudata,12,Generalists,Y
+Alteres,Schiffornis virescens,4,Forest,Y
+Alteres,Picumnus temminckii,1,Generalists,Y
+Alteres,Lepidocolaptes fuscus,4,Forest,Y
+Alteres,Automolus leucophthalmus,4,Generalists,Y
+Alteres,Syndactyla rufosuperciliata,1,Generalists,N
+Alteres,Saltator similis,2,Generalists,N
+Alteres,Thamnophilus caerulescens,1,Generalists,N
+Alteres,Turdus rufiventris,8,Generalists,N
+Alteres,Tachyphonus coronatus,4,Generalists,Y
+Alteres,Turdus albicollis,2,Generalists,N
+Alteres,Habia rubica,1,Forest,N
+Alteres,Phaethornis eurynome,1,Forest,Y
+Alteres,Thalurania glaucopis,3,Forest,Y
+Alteres,Leptotila verreauxi,2,Generalists,N
+Alteres,Leptotila rufaxilla,1,Generalists,N
+Alteres,Arremon semitorquatus,1,Generalists,Y
+Antenor Frag,Mionectes rufiventris,3,Generalists,Y
+Antenor Frag,Hemitriccus diops,1,Forest,Y
+Antenor Frag,Platyrinchus mystaceus,6,Generalists,N
+Antenor Frag,Sittasomus griseicapillus,5,Forest,N
+Antenor Frag,Rhopias gularis ,2,Forest,Y
+Antenor Frag,Myiobius atricaudus,1,Forest,N
+Antenor Frag,Myrmoderus squamosus,3,Forest,Y
+Antenor Frag,Dysithamnus mentalis,4,Generalists,N
+Antenor Frag,Schiffornis virescens,1,Forest,Y
+Antenor Frag,Myiothlypis leucoblephara,1,Generalists,Y
+Antenor Frag,Lepidocolaptes fuscus,2,Forest,Y
+Antenor Frag,Xenops minutus,1,Forest,N
+Antenor Frag,Basileuterus culicivorus,1,Generalists,N
+Antenor Frag,Trichothraupis melanops,3,Generalists,N
+Antenor Frag,Chiroxiphia caudata,3,Generalists,Y
+Antenor Frag,Haplospiza unicolor,3,Forest,Y
+Antenor Frag,Onychorhynchus swainsoni,1,Forest,N
+Antenor Frag,Conopophaga lineata,6,Generalists,Y
+Antenor Frag,Sclerurus scansor,2,Forest,Y
+Antenor Frag,Sporophila lineola,1,Forest,N
+Antenor Frag,Pyriglena leucoptera,7,Forest,Y
+Antenor Frag,Automolus leucophthalmus,2,Generalists,Y
+Antenor Frag,Anabazenops fuscus,3,Forest,Y
+Antenor Frag,Attila rufus,1,Forest,Y
+Antenor Frag,Turdus rufiventris,1,Generalists,N
+Antenor Frag,Colaptes melanochloros,1,Generalists,N
+Antenor Frag,Thalurania glaucopis,2,Forest,Y
+Areial,Platyrinchus mystaceus,5,Generalists,N
+Areial,Basileuterus culicivorus,1,Generalists,N
+Areial,Myrmotherula unicolor,1,Forest,Y
+Areial,Dysithamnus mentalis,1,Generalists,N
+Areial,Rhopias gularis ,2,Forest,Y
+Areial,Mionectes rufiventris,1,Generalists,Y
+Areial,Trichothraupis melanops,2,Generalists,N
+Areial,Tachyphonus coronatus,1,Generalists,Y
+Areial,Habia rubica,2,Forest,N
+Areial,Philydor atricapillus,3,Forest,Y
+Areial,Anabacerthia amaurotis,1,Forest,Y
+Areial,Chiroxiphia caudata,1,Generalists,Y
+Areial,Sclerurus scansor,2,Forest,Y
+Areial,Pyriglena leucoptera,1,Forest,Y
+Areial,Turdus albicollis,4,Generalists,N
+Areial,Platycichla flavipes,2,Forest,N
+Areial,Chamaeza campanisona,1,Forest,N
+Areial,Dendrocolaptes platyrostris,1,Forest,N
+Areial,Phaethornis eurynome,4,Forest,Y
+Areial,Thalurania glaucopis,3,Forest,Y
+Areial,Clytolaema rubricauda,5,Forest,Y
+Baleia,Lathrotriccus euleri,3,Generalists,N
+Baleia,Dysithamnus mentalis,2,Generalists,N
+Baleia,Basileuterus culicivorus,3,Generalists,N
+Baleia,Myiothlypis leucoblephara,2,Generalists,Y
+Baleia,Platyrinchus mystaceus,2,Generalists,N
+Baleia,Sittasomus griseicapillus,3,Forest,N
+Baleia,Troglodytes musculus,1,Generalists,N
+Baleia,Conopophaga lineata,8,Generalists,Y
+Baleia,Chiroxiphia caudata,1,Generalists,Y
+Baleia,Lepidocolaptes fuscus,5,Forest,Y
+Baleia,Xenops minutus,1,Forest,N
+Baleia,Trichothraupis melanops,2,Generalists,N
+Baleia,Turdus albicollis,6,Generalists,N
+Baleia,Platycichla flavipes,1,Forest,N
+Baleia,Turdus rufiventris,3,Generalists,N
+Baleia,Dendrocolaptes platyrostris,1,Forest,N
+Baleia,Veniliornis spilogaster,1,Generalists,Y
+Baleia,Xiphocolaptes albicollis,1,Forest,N
+Baleia,Batara cinerea,1,Generalists,N
+Baleia,Thalurania glaucopis,2,Forest,Y
+Baleia,Phaethornis eurynome,1,Forest,Y
+Baleia,Leucochloris albicollis,2,Generalists,Y
+Beto Jamil,Platyrinchus mystaceus,6,Generalists,N
+Beto Jamil,Synallaxis ruficapilla,1,Generalists,Y
+Beto Jamil,Hemitriccus orbitatus,2,Forest,Y
+Beto Jamil,Leptopogon amaurocephalus,1,Generalists,N
+Beto Jamil,Chiroxiphia caudata,7,Generalists,Y
+Beto Jamil,Myiothlypis leucoblephara,6,Generalists,Y
+Beto Jamil,Syndactyla rufosuperciliata,4,Generalists,N
+Beto Jamil,Neopelma chrysolophum,1,Forest,Y
+Beto Jamil,Basileuterus culicivorus,1,Generalists,N
+Beto Jamil,Conopophaga lineata,5,Generalists,Y
+Beto Jamil,Dysithamnus mentalis,3,Generalists,N
+Beto Jamil,Thamnophilus caerulescens,5,Generalists,N
+Beto Jamil,Mionectes rufiventris,1,Generalists,Y
+Beto Jamil,Schiffornis virescens,1,Forest,Y
+Beto Jamil,Sittasomus griseicapillus,1,Forest,N
+Beto Jamil,Lepidocolaptes fuscus,5,Forest,Y
+Beto Jamil,Trichothraupis melanops,7,Generalists,N
+Beto Jamil,Sclerurus scansor,1,Forest,Y
+Beto Jamil,Pyriglena leucoptera,2,Forest,Y
+Beto Jamil,Turdus albicollis,5,Generalists,N
+Beto Jamil,Turdus rufiventris,7,Generalists,N
+Beto Jamil,Saltator similis,1,Generalists,N
+Beto Jamil,Tachyphonus coronatus,1,Generalists,Y
+Beto Jamil,Veniliornis spilogaster,1,Generalists,Y
+Bicudinho,Platyrinchus mystaceus,5,Generalists,N
+Bicudinho,Basileuterus culicivorus,1,Generalists,N
+Bicudinho,Mionectes rufiventris,2,Generalists,Y
+Bicudinho,Sittasomus griseicapillus,4,Forest,N
+Bicudinho,Myiothlypis leucoblephara,3,Generalists,Y
+Bicudinho,Dysithamnus mentalis,2,Generalists,N
+Bicudinho,Conopophaga lineata,5,Generalists,Y
+Bicudinho,Trichothraupis melanops,5,Generalists,N
+Bicudinho,Cyclarhis gujanensis,1,Generalists,N
+Bicudinho,Chiroxiphia caudata,14,Generalists,Y
+Bicudinho,Schiffornis virescens,1,Forest,Y
+Bicudinho,Lepidocolaptes fuscus,6,Forest,Y
+Bicudinho,Syndactyla rufosuperciliata,1,Generalists,N
+Bicudinho,Pyriglena leucoptera,3,Forest,Y
+Bicudinho,Sclerurus scansor,3,Forest,Y
+Bicudinho,Dendrocolaptes platyrostris,1,Forest,N
+Bicudinho,Turdus albicollis,5,Generalists,N
+Bicudinho,Turdus rufiventris,7,Generalists,N
+Bicudinho,Geotrygon montana,3,Forest,N
+Bicudinho,Colaptes melanochloros,1,Generalists,N
+Bicudinho,Phaethornis eurynome,3,Forest,Y
+Boiadeiro,Basileuterus culicivorus,9,Generalists,N
+Boiadeiro,Mionectes rufiventris,2,Generalists,Y
+Boiadeiro,Platyrinchus mystaceus,3,Generalists,N
+Boiadeiro,Myiothlypis leucoblephara,6,Generalists,Y
+Boiadeiro,Dysithamnus mentalis,2,Generalists,N
+Boiadeiro,Picumnus temminckii,1,Generalists,Y
+Boiadeiro,Conopophaga lineata,13,Generalists,Y
+Boiadeiro,Schiffornis virescens,1,Forest,Y
+Boiadeiro,Trichothraupis melanops,8,Generalists,N
+Boiadeiro,Chiroxiphia caudata,2,Generalists,Y
+Boiadeiro,Tachyphonus coronatus,6,Generalists,Y
+Boiadeiro,Syndactyla rufosuperciliata,1,Generalists,N
+Boiadeiro,Automolus leucophthalmus,3,Generalists,Y
+Boiadeiro,Saltator similis,1,Generalists,N
+Boiadeiro,Turdus albicollis,7,Generalists,N
+Boiadeiro,Turdus rufiventris,13,Generalists,N
+Boiadeiro,Mackenziaena severa,1,Generalists,Y
+Boiadeiro,Leptotila verreauxi,2,Generalists,N
+Boiadeiro,Piaya cayana,1,Generalists,N
+Boiadeiro,Thalurania glaucopis,9,Forest,Y
+Boiadeiro,Amazilia lactea,1,Generalists,N
+Boiadeiro,Melanotrochilus fuscus,1,Generalists,Y
+Bojado,Thalurania glaucopis,1,Forest,Y
+Bojado,Platyrinchus mystaceus,10,Generalists,N
+Bojado,Basileuterus culicivorus,8,Generalists,N
+Bojado,Leptopogon amaurocephalus,4,Generalists,N
+Bojado,Dysithamnus mentalis,5,Generalists,N
+Bojado,Synallaxis ruficapilla,4,Generalists,Y
+Bojado,Myiothlypis leucoblephara,7,Generalists,Y
+Bojado,Mionectes rufiventris,1,Generalists,Y
+Bojado,Corythopis delalandi,2,Generalists,N
+Bojado,Lathrotriccus euleri,1,Generalists,N
+Bojado,Conopophaga lineata,18,Generalists,Y
+Bojado,Lepidocolaptes fuscus,9,Forest,Y
+Bojado,Chiroxiphia caudata,9,Generalists,Y
+Bojado,Trichothraupis melanops,10,Generalists,N
+Bojado,Schiffornis virescens,3,Forest,Y
+Bojado,Habia rubica,6,Forest,N
+Bojado,Picumnus temminckii,1,Generalists,Y
+Bojado,Tachyphonus coronatus,3,Generalists,Y
+Bojado,Automolus leucophthalmus,12,Generalists,Y
+Bojado,Turdus albicollis,4,Generalists,N
+Bojado,Sclerurus scansor,1,Forest,Y
+Bojado,Thamnophilus caerulescens,1,Generalists,N
+Bojado,Syndactyla rufosuperciliata,1,Generalists,N
+Bojado,Turdus rufiventris,1,Generalists,N
+Bojado,Leptotila verreauxi,1,Generalists,N
+Bojado,Leptotila rufaxilla,1,Generalists,N
+Campinho,Platyrinchus mystaceus,7,Generalists,N
+Campinho,Basileuterus culicivorus,3,Generalists,N
+Campinho,Mionectes rufiventris,6,Generalists,Y
+Campinho,Anabacerthia amaurotis,4,Forest,Y
+Campinho,Dysithamnus mentalis,2,Generalists,N
+Campinho,Rhopias gularis ,2,Forest,Y
+Campinho,Haplospiza unicolor,2,Forest,Y
+Campinho,Lathrotriccus euleri,3,Generalists,N
+Campinho,Sittasomus griseicapillus,3,Forest,N
+Campinho,Leptopogon amaurocephalus,2,Generalists,N
+Campinho,Lepidocolaptes fuscus,6,Forest,Y
+Campinho,Chiroxiphia caudata,12,Generalists,Y
+Campinho,Schiffornis virescens,4,Forest,Y
+Campinho,Myrmoderus squamosus,2,Forest,Y
+Campinho,Tachyphonus coronatus,3,Generalists,Y
+Campinho,Trichothraupis melanops,11,Generalists,N
+Campinho,Philydor atricapillus,6,Forest,Y
+Campinho,Pyriglena leucoptera,13,Forest,Y
+Campinho,Conopophaga lineata,3,Generalists,Y
+Campinho,Onychorhynchus swainsoni,1,Forest,N
+Campinho,Habia rubica,1,Forest,N
+Campinho,Syndactyla rufosuperciliata,1,Generalists,N
+Campinho,Chamaeza campanisona,2,Forest,N
+Campinho,Turdus albicollis,2,Generalists,N
+Campinho,Dendrocolaptes platyrostris,2,Forest,N
+Campinho,Platycichla flavipes,1,Forest,N
+Campinho,Carpornis cucullatus,2,Forest,Y
+Campinho,Sclerurus scansor,1,Forest,Y
+Campinho,Geotrygon montana,2,Forest,N
+Campinho,Amazilia fimbriata,1,Forest,N
+Campinho,Thalurania glaucopis,7,Forest,Y
+Campinho,Phaethornis eurynome,5,Forest,Y
+Campinho,Clytolaema rubricauda,2,Forest,Y
+Capinzal,Platyrinchus mystaceus,8,Generalists,N
+Capinzal,Rhopias gularis ,4,Forest,Y
+Capinzal,Hemitriccus obsoletus,1,Forest,Y
+Capinzal,Mionectes rufiventris,4,Generalists,Y
+Capinzal,Sittasomus griseicapillus,6,Forest,N
+Capinzal,Basileuterus culicivorus,2,Generalists,N
+Capinzal,Lepidocolaptes fuscus,5,Forest,Y
+Capinzal,Haplospiza unicolor,4,Forest,Y
+Capinzal,Leptopogon amaurocephalus,2,Generalists,N
+Capinzal,Dysithamnus mentalis,4,Generalists,N
+Capinzal,Camptostoma obsoletum,1,Forest,N
+Capinzal,Schiffornis virescens,1,Forest,Y
+Capinzal,Euphonia pectoralis,1,Forest,Y
+Capinzal,Synallaxis ruficapilla,1,Generalists,Y
+Capinzal,Chiroxiphia caudata,7,Generalists,Y
+Capinzal,Conopophaga lineata,3,Generalists,Y
+Capinzal,Anabacerthia amaurotis,1,Forest,Y
+Capinzal,Philydor atricapillus,1,Forest,Y
+Capinzal,Sclerurus scansor,4,Forest,Y
+Capinzal,Trichothraupis melanops,4,Generalists,N
+Capinzal,Pyriglena leucoptera,4,Forest,Y
+Capinzal,Veniliornis spilogaster,1,Generalists,Y
+Capinzal,Conopophaga melanops,1,Forest,Y
+Capinzal,Dendrocolaptes platyrostris,2,Forest,N
+Capinzal,Dendrocincla turdina,1,Forest,Y
+Capinzal,Turdus albicollis,1,Generalists,N
+Capinzal,Chamaeza campanisona,4,Forest,N
+Capinzal,Platycichla flavipes,1,Forest,N
+Capinzal,Micrastur ruficollis,1,Forest,N
+Capinzal,Clytolaema rubricauda,2,Forest,Y
+Capinzal,Thalurania glaucopis,7,Forest,Y
+Capinzal,Phaethornis eurynome,9,Forest,Y
+Carmo Messias,Phaethornis eurynome,7,Forest,Y
+Carmo Messias,Platyrinchus mystaceus,5,Generalists,N
+Carmo Messias,Basileuterus culicivorus,3,Generalists,N
+Carmo Messias,Tachyphonus coronatus,6,Generalists,Y
+Carmo Messias,Chiroxiphia caudata,5,Generalists,Y
+Carmo Messias,Dysithamnus mentalis,2,Generalists,N
+Carmo Messias,Mionectes rufiventris,2,Generalists,Y
+Carmo Messias,Thamnophilus caerulescens,1,Generalists,N
+Carmo Messias,Conopophaga lineata,8,Generalists,Y
+Carmo Messias,Trichothraupis melanops,2,Generalists,N
+Carmo Messias,Lepidocolaptes fuscus,3,Forest,Y
+Carmo Messias,Turdus rufiventris,10,Generalists,N
+Carmo Messias,Dendrocolaptes platyrostris,2,Forest,N
+Carmo Messias,Leptotila rufaxilla,2,Generalists,N
+Carmo Messias,Turdus albicollis,5,Generalists,N
+Carmo Messias,Turdus amaurochalinus,1,Generalists,N
+Carmo Messias,Thalurania glaucopis,3,Forest,Y
+Citadini,Basileuterus culicivorus,8,Generalists,N
+Citadini,Platyrinchus mystaceus,7,Generalists,N
+Citadini,Dysithamnus mentalis,5,Generalists,N
+Citadini,Synallaxis ruficapilla,5,Generalists,Y
+Citadini,Sittasomus griseicapillus,1,Forest,N
+Citadini,Mionectes rufiventris,4,Generalists,Y
+Citadini,Myiothlypis leucoblephara,7,Generalists,Y
+Citadini,Leptopogon amaurocephalus,1,Generalists,N
+Citadini,Chiroxiphia caudata,18,Generalists,Y
+Citadini,Lepidocolaptes fuscus,2,Forest,Y
+Citadini,Trichothraupis melanops,7,Generalists,N
+Citadini,Conopophaga lineata,9,Generalists,Y
+Citadini,Schiffornis virescens,3,Forest,Y
+Citadini,Picumnus temminckii,1,Generalists,Y
+Citadini,Automolus leucophthalmus,6,Generalists,Y
+Citadini,Tachyphonus coronatus,2,Generalists,Y
+Citadini,Syndactyla rufosuperciliata,1,Generalists,N
+Citadini,Turdus albicollis,7,Generalists,N
+Citadini,Attila rufus,1,Forest,Y
+Citadini,Turdus rufiventris,9,Generalists,N
+Citadini,Leptotila rufaxilla,1,Generalists,N
+Citadini,Piaya cayana,1,Generalists,N
+Citadini,Thalurania glaucopis,5,Forest,Y
+Citadini,Amazilia lactea,1,Generalists,N
+Cobrinha,Platyrinchus mystaceus,3,Generalists,N
+Cobrinha,Myrmotherula minor,4,Forest,Y
+Cobrinha,Leptopogon amaurocephalus,1,Generalists,N
+Cobrinha,Rhopias gularis ,12,Forest,Y
+Cobrinha,Mionectes rufiventris,3,Generalists,Y
+Cobrinha,Myiothlypis rivularis,1,Forest,N
+Cobrinha,Drymophila squamata,3,Forest,Y
+Cobrinha,Lepidocolaptes fuscus,3,Forest,Y
+Cobrinha,Sittasomus griseicapillus,3,Forest,N
+Cobrinha,Platyrinchus leucoryphus,2,Forest,Y
+Cobrinha,Dysithamnus mentalis,1,Generalists,N
+Cobrinha,Basileuterus culicivorus,3,Generalists,N
+Cobrinha,Myiobius barbatus,3,Forest,N
+Cobrinha,Tachyphonus coronatus,2,Generalists,Y
+Cobrinha,Dendrocincla turdina,5,Forest,Y
+Cobrinha,Habia rubica,5,Forest,N
+Cobrinha,Philydor atricapillus,9,Forest,Y
+Cobrinha,Automolus leucophthalmus,4,Generalists,Y
+Cobrinha,Chiroxiphia caudata,6,Generalists,Y
+Cobrinha,Conopophaga melanops,5,Forest,Y
+Cobrinha,Tangara seledon,1,Forest,Y
+Cobrinha,Schiffornis virescens,6,Forest,Y
+Cobrinha,Euphonia pectoralis,1,Forest,Y
+Cobrinha,Myrmoderus squamosus,2,Forest,Y
+Cobrinha,Pyriglena leucoptera,3,Forest,Y
+Cobrinha,Trichothraupis melanops,4,Generalists,N
+Cobrinha,Formicarius colma,1,Forest,N
+Cobrinha,Turdus albicollis,3,Generalists,N
+Cobrinha,Sclerurus scansor,3,Forest,Y
+Cobrinha,Platycichla flavipes,2,Forest,N
+Cobrinha,Phaethornis eurynome,2,Forest,Y
+Cobrinha,Amazilia fimbriata,2,Forest,N
+Cobrinha,Ramphodon naevius,4,Forest,Y
+Cobrinha,Thalurania glaucopis,5,Forest,Y
+Cobrinha,Phaethornis squalidus,2,Forest,N
+Cobrinha,Ramphastos dicolorus,1,Forest,Y
+Criscross,Mionectes rufiventris,4,Generalists,Y
+Criscross,Platyrinchus mystaceus,5,Generalists,N
+Criscross,Rhopias gularis ,4,Forest,Y
+Criscross,Myrmotherula minor,3,Forest,Y
+Criscross,Basileuterus culicivorus,1,Generalists,N
+Criscross,Sittasomus griseicapillus,2,Forest,N
+Criscross,Schiffornis virescens,5,Forest,Y
+Criscross,Lepidocolaptes fuscus,4,Forest,Y
+Criscross,Philydor atricapillus,8,Forest,Y
+Criscross,Platyrinchus leucoryphus,1,Forest,Y
+Criscross,Drymophila squamata,3,Forest,Y
+Criscross,Ilicura militaris,1,Forest,Y
+Criscross,Haplospiza unicolor,20,Forest,Y
+Criscross,Drymophila ochropyga,1,Forest,Y
+Criscross,Conopophaga melanops,7,Forest,Y
+Criscross,Euphonia violacea,3,Forest,N
+Criscross,Pyriglena leucoptera,5,Forest,Y
+Criscross,Sclerurus scansor,1,Forest,Y
+Criscross,Trichothraupis melanops,4,Generalists,N
+Criscross,Chiroxiphia caudata,4,Generalists,Y
+Criscross,Automolus leucophthalmus,3,Generalists,Y
+Criscross,Habia rubica,6,Forest,N
+Criscross,Dendrocincla turdina,11,Forest,Y
+Criscross,Formicarius colma,4,Forest,N
+Criscross,Dendrocolaptes platyrostris,1,Forest,N
+Criscross,Turdus albicollis,6,Generalists,N
+Criscross,Geotrygon montana,2,Forest,N
+Criscross,Phaethornis eurynome,5,Forest,Y
+Criscross,Heliobletus contaminatus,1,Forest,Y
+Criscross,Thalurania glaucopis,8,Forest,Y
+Criscross,Odontophorus capueira,3,Forest,Y
+Criscross,Ramphodon naevius,1,Forest,Y
+Cristo,Lathrotriccus euleri,1,Generalists,N
+Cristo,Platyrinchus mystaceus,3,Generalists,N
+Cristo,Synallaxis ruficapilla,2,Generalists,Y
+Cristo,Sittasomus griseicapillus,2,Forest,N
+Cristo,Leptopogon amaurocephalus,1,Generalists,N
+Cristo,Basileuterus culicivorus,5,Generalists,N
+Cristo,Myiothlypis leucoblephara,6,Generalists,Y
+Cristo,Mionectes rufiventris,3,Generalists,Y
+Cristo,Dysithamnus mentalis,1,Generalists,N
+Cristo,Chiroxiphia caudata,6,Generalists,Y
+Cristo,Conopophaga lineata,4,Generalists,Y
+Cristo,Lepidocolaptes fuscus,6,Forest,Y
+Cristo,Trichothraupis melanops,9,Generalists,N
+Cristo,Tachyphonus coronatus,4,Generalists,Y
+Cristo,Pyriglena leucoptera,13,Forest,Y
+Cristo,Attila rufus,2,Forest,Y
+Cristo,Sclerurus scansor,3,Forest,Y
+Cristo,Platycichla flavipes,1,Forest,N
+Cristo,Veniliornis spilogaster,1,Generalists,Y
+Cristo,Turdus albicollis,3,Generalists,N
+Cristo,Leptotila verreauxi,1,Generalists,N
+Cristo,Micrastur ruficollis,1,Forest,N
+Cristo,Phaethornis eurynome,1,Forest,Y
+Cristo,Pyroderus scutatus,1,Generalists,Y
+Cromossomo,Mionectes rufiventris,2,Generalists,Y
+Cromossomo,Basileuterus culicivorus,15,Generalists,N
+Cromossomo,Platyrinchus mystaceus,9,Generalists,N
+Cromossomo,Sittasomus griseicapillus,6,Forest,N
+Cromossomo,Dysithamnus mentalis,8,Generalists,N
+Cromossomo,Lathrotriccus euleri,6,Generalists,N
+Cromossomo,Corythopis delalandi,1,Generalists,N
+Cromossomo,Synallaxis ruficapilla,6,Generalists,Y
+Cromossomo,Myiothlypis leucoblephara,17,Generalists,Y
+Cromossomo,Haplospiza unicolor,4,Forest,Y
+Cromossomo,Leptopogon amaurocephalus,1,Generalists,N
+Cromossomo,Thlypopsis pyrrhocoma,3,Generalists,Y
+Cromossomo,Chiroxiphia caudata,12,Generalists,Y
+Cromossomo,Conopophaga lineata,8,Generalists,Y
+Cromossomo,Trichothraupis melanops,16,Generalists,N
+Cromossomo,Schiffornis virescens,1,Forest,Y
+Cromossomo,Lepidocolaptes fuscus,4,Forest,Y
+Cromossomo,Lochmias nematura,3,Generalists,N
+Cromossomo,Arremon semitorquatus,1,Generalists,Y
+Cromossomo,Habia rubica,3,Forest,N
+Cromossomo,Automolus leucophthalmus,5,Generalists,Y
+Cromossomo,Turdus albicollis,11,Generalists,N
+Cromossomo,Saltator similis,2,Generalists,N
+Cromossomo,Syndactyla rufosuperciliata,1,Generalists,N
+Cromossomo,Turdus rufiventris,3,Generalists,N
+Cromossomo,Turdus amaurochalinus,2,Generalists,N
+Cromossomo,Attila rufus,1,Forest,Y
+Cromossomo,Geotrygon montana,1,Forest,N
+Cromossomo,Phaethornis eurynome,2,Forest,Y
+Cromossomo,Thalurania glaucopis,4,Forest,Y
+Cromossomo,Thamnophilus caerulescens,1,Generalists,N
+Dito,Platyrinchus mystaceus,3,Generalists,N
+Dito,Pipraeidea melanonota,1,Generalists,N
+Dito,Basileuterus culicivorus,2,Generalists,N
+Dito,Dysithamnus mentalis,4,Generalists,N
+Dito,Xenops minutus,1,Forest,N
+Dito,Chiroxiphia caudata,6,Generalists,Y
+Dito,Conopophaga lineata,4,Generalists,Y
+Dito,Trichothraupis melanops,3,Generalists,N
+Dito,Lepidocolaptes fuscus,4,Forest,Y
+Dito,Turdus rufiventris,4,Generalists,N
+Dito,Xiphocolaptes albicollis,2,Forest,N
+Dito,Leptotila verreauxi,1,Generalists,N
+Dito,Turdus albicollis,1,Generalists,N
+Dito,Thalurania glaucopis,1,Forest,Y
+Dito,Mionectes rufiventris,1,Generalists,Y
+Dito,Phaethornis eurynome,2,Forest,Y
+Dito,Pyriglena leucoptera,1,Forest,Y
+Dito Andre,Phaethornis eurynome,2,Forest,Y
+Dito Andre,Thalurania glaucopis,2,Forest,Y
+Dito Andre,Platyrinchus mystaceus,3,Generalists,N
+Dito Andre,Leptopogon amaurocephalus,2,Generalists,N
+Dito Andre,Xenops minutus,2,Forest,N
+Dito Andre,Hemitriccus orbitatus,1,Forest,Y
+Dito Andre,Myiothlypis leucoblephara,5,Generalists,Y
+Dito Andre,Syndactyla rufosuperciliata,3,Generalists,N
+Dito Andre,Chiroxiphia caudata,5,Generalists,Y
+Dito Andre,Thamnophilus caerulescens,1,Generalists,N
+Dito Andre,Lepidocolaptes fuscus,2,Forest,Y
+Dito Andre,Trichothraupis melanops,5,Generalists,N
+Dito Andre,Basileuterus culicivorus,4,Generalists,N
+Dito Andre,Dysithamnus mentalis,2,Generalists,N
+Dito Andre,Synallaxis ruficapilla,2,Generalists,Y
+Dito Andre,Myrmoderus squamosus,1,Forest,Y
+Dito Andre,Mionectes rufiventris,1,Generalists,Y
+Dito Andre,Schiffornis virescens,3,Forest,Y
+Dito Andre,Conopophaga lineata,4,Generalists,Y
+Dito Andre,Sclerurus scansor,1,Forest,Y
+Dito Andre,Pyriglena leucoptera,10,Forest,Y
+Dito Andre,Turdus rufiventris,4,Generalists,N
+Dito Andre,Dendrocolaptes platyrostris,2,Forest,N
+Dito Andre,Malacoptila striata,1,Generalists,Y
+Divisa,Basileuterus culicivorus,13,Generalists,N
+Divisa,Platyrinchus mystaceus,5,Generalists,N
+Divisa,Lathrotriccus euleri,3,Generalists,N
+Divisa,Synallaxis ruficapilla,4,Generalists,Y
+Divisa,Dysithamnus mentalis,7,Generalists,N
+Divisa,Leptopogon amaurocephalus,4,Generalists,N
+Divisa,Conopophaga lineata,12,Generalists,Y
+Divisa,Synallaxis spixi,1,Generalists,N
+Divisa,Myiothlypis leucoblephara,5,Generalists,Y
+Divisa,Picumnus temminckii,2,Generalists,Y
+Divisa,Sittasomus griseicapillus,2,Forest,N
+Divisa,Synallaxis cinerascens,1,Generalists,N
+Divisa,Camptostoma obsoletum,1,Forest,N
+Divisa,Tolmomyias sulphurescens,2,Generalists,N
+Divisa,Knipolegus cyanirostris,1,Generalists,N
+Divisa,Chiroxiphia caudata,9,Generalists,Y
+Divisa,Trichothraupis melanops,15,Generalists,N
+Divisa,Lepidocolaptes fuscus,3,Forest,Y
+Divisa,Schiffornis virescens,4,Forest,Y
+Divisa,Thamnophilus caerulescens,2,Generalists,N
+Divisa,Tachyphonus coronatus,2,Generalists,Y
+Divisa,Lochmias nematura,2,Generalists,N
+Divisa,Haplospiza unicolor,1,Forest,Y
+Divisa,Automolus leucophthalmus,5,Generalists,Y
+Divisa,Sclerurus scansor,2,Forest,Y
+Divisa,Syndactyla rufosuperciliata,4,Generalists,N
+Divisa,Tangara flava,1,Generalists,N
+Divisa,Dendrocolaptes platyrostris,1,Forest,N
+Divisa,Turdus rufiventris,9,Generalists,N
+Divisa,Arremon semitorquatus,1,Generalists,Y
+Divisa,Veniliornis spilogaster,1,Generalists,Y
+Divisa,Turdus albicollis,3,Generalists,N
+Divisa,Piaya cayana,1,Generalists,N
+Divisa,Thalurania glaucopis,6,Forest,Y
+Divisa,Phaethornis eurynome,1,Forest,Y
+Divisa,Phaethornis pretrei,1,Generalists,N
+Dn. Ivone,Platyrinchus mystaceus,3,Generalists,N
+Dn. Ivone,Lathrotriccus euleri,3,Generalists,N
+Dn. Ivone,Sittasomus griseicapillus,4,Forest,N
+Dn. Ivone,Synallaxis ruficapilla,3,Generalists,Y
+Dn. Ivone,Basileuterus culicivorus,4,Generalists,N
+Dn. Ivone,Myiothlypis leucoblephara,2,Generalists,Y
+Dn. Ivone,Conopophaga lineata,5,Generalists,Y
+Dn. Ivone,Dysithamnus mentalis,2,Generalists,N
+Dn. Ivone,Hylophilus poicilotis,1,Generalists,Y
+Dn. Ivone,Trichothraupis melanops,4,Generalists,N
+Dn. Ivone,Lepidocolaptes fuscus,4,Forest,Y
+Dn. Ivone,Syndactyla rufosuperciliata,1,Generalists,N
+Dn. Ivone,Thamnophilus caerulescens,3,Generalists,N
+Dn. Ivone,Chiroxiphia caudata,1,Generalists,Y
+Dn. Ivone,Haplospiza unicolor,1,Forest,Y
+Dn. Ivone,Pipraeidea melanonota,1,Generalists,N
+Dn. Ivone,Tachyphonus coronatus,4,Generalists,Y
+Dn. Ivone,Pyriglena leucoptera,1,Forest,Y
+Dn. Ivone,Saltator similis,2,Generalists,N
+Dn. Ivone,Lochmias nematura,1,Generalists,N
+Dn. Ivone,Dendrocolaptes platyrostris,4,Forest,N
+Dn. Ivone,Attila rufus,1,Forest,Y
+Dn. Ivone,Sclerurus scansor,1,Forest,Y
+Dn. Ivone,Turdus albicollis,5,Generalists,N
+Dn. Ivone,Cyclarhis gujanensis,2,Generalists,N
+Dn. Ivone,Turdus amaurochalinus,1,Generalists,N
+Dn. Ivone,Turdus rufiventris,4,Generalists,N
+Dn. Ivone,Grallaria varia,1,Generalists,N
+Dn. Ivone,Leptotila verreauxi,1,Generalists,N
+Dn. Ivone,Phaethornis eurynome,4,Forest,Y
+Eme,Leptopogon amaurocephalus,2,Generalists,N
+Eme,Sittasomus griseicapillus,7,Forest,N
+Eme,Platyrinchus mystaceus,1,Generalists,N
+Eme,Hylophilus poicilotis,1,Generalists,Y
+Eme,Basileuterus culicivorus,3,Generalists,N
+Eme,Lathrotriccus euleri,1,Generalists,N
+Eme,Mionectes rufiventris,2,Generalists,Y
+Eme,Dysithamnus mentalis,9,Generalists,N
+Eme,Lepidocolaptes fuscus,7,Forest,Y
+Eme,Myiothlypis leucoblephara,5,Generalists,Y
+Eme,Tolmomyias sulphurescens,2,Generalists,N
+Eme,Picumnus temminckii,1,Generalists,Y
+Eme,Conopophaga lineata,9,Generalists,Y
+Eme,Schiffornis virescens,3,Forest,Y
+Eme,Chiroxiphia caudata,4,Generalists,Y
+Eme,Syndactyla rufosuperciliata,2,Generalists,N
+Eme,Trichothraupis melanops,2,Generalists,N
+Eme,Tachyphonus coronatus,2,Generalists,Y
+Eme,Pyriglena leucoptera,4,Forest,Y
+Eme,Veniliornis spilogaster,1,Generalists,Y
+Eme,Turdus albicollis,7,Generalists,N
+Eme,Turdus rufiventris,8,Generalists,N
+Eme,Leptotila verreauxi,1,Generalists,N
+Eme,Phaethornis eurynome,1,Forest,Y
+Eme,Thalurania glaucopis,2,Forest,Y
+Escumador,Platyrinchus mystaceus,4,Generalists,N
+Escumador,Basileuterus culicivorus,1,Generalists,N
+Escumador,Rhopias gularis ,4,Forest,Y
+Escumador,Haplospiza unicolor,1,Forest,Y
+Escumador,Xenops minutus,1,Forest,N
+Escumador,Anabacerthia amaurotis,1,Forest,Y
+Escumador,Chiroxiphia caudata,2,Generalists,Y
+Escumador,Lepidocolaptes fuscus,4,Forest,Y
+Escumador,Schiffornis virescens,2,Forest,Y
+Escumador,Sclerurus scansor,4,Forest,Y
+Escumador,Platycichla flavipes,3,Forest,N
+Escumador,Xiphocolaptes albicollis,1,Forest,N
+Escumador,Turdus albicollis,5,Generalists,N
+Escumador,Chamaeza campanisona,4,Forest,N
+Escumador,Pyriglena leucoptera,2,Forest,Y
+Escumador,Geotrygon montana,2,Forest,N
+Escumador,Thalurania glaucopis,8,Forest,Y
+Escumador,Phaethornis eurynome,11,Forest,Y
+Escumador,Phaethornis squalidus,1,Forest,N
+Estrada,Leptopogon amaurocephalus,2,Generalists,N
+Estrada,Lathrotriccus euleri,1,Generalists,N
+Estrada,Basileuterus culicivorus,4,Generalists,N
+Estrada,Vireo olivaceus,1,Generalists,N
+Estrada,Tolmomyias sulphurescens,1,Generalists,N
+Estrada,Manacus manacus,1,Forest,N
+Estrada,Sittasomus griseicapillus,5,Forest,N
+Estrada,Dysithamnus mentalis,3,Generalists,N
+Estrada,Haplospiza unicolor,3,Forest,Y
+Estrada,Hylophilus poicilotis,1,Generalists,Y
+Estrada,Conopophaga lineata,4,Generalists,Y
+Estrada,Lepidocolaptes fuscus,2,Forest,Y
+Estrada,Chiroxiphia caudata,7,Generalists,Y
+Estrada,Asemospiza fuliginosa,1,Generalists,N
+Estrada,Cyclarhis gujanensis,1,Generalists,N
+Estrada,Myrmoderus squamosus,2,Forest,Y
+Estrada,Picumnus temminckii,2,Generalists,Y
+Estrada,Trichothraupis melanops,4,Generalists,N
+Estrada,Pyriglena leucoptera,1,Forest,Y
+Estrada,Veniliornis spilogaster,1,Generalists,Y
+Estrada,Tachyphonus coronatus,2,Generalists,Y
+Estrada,Turdus albicollis,8,Generalists,N
+Estrada,Dendrocolaptes platyrostris,1,Forest,N
+Estrada,Turdus rufiventris,4,Generalists,N
+Estrada,Leptotila verreauxi,1,Generalists,N
+Estrada,Leucochloris albicollis,1,Generalists,Y
+Estrada,Eupetonema macroura,1,Generalists,N
+Estrada,Phaethornis eurynome,4,Forest,Y
+Estrada,Thalurania glaucopis,2,Forest,Y
+Falopio,Lathrotriccus euleri,3,Generalists,N
+Falopio,Basileuterus culicivorus,8,Generalists,N
+Falopio,Platyrinchus mystaceus,13,Generalists,N
+Falopio,Leptopogon amaurocephalus,2,Generalists,N
+Falopio,Coereba flaveola,1,Forest,N
+Falopio,Dysithamnus mentalis,7,Generalists,N
+Falopio,Hemitriccus orbitatus,1,Forest,Y
+Falopio,Myiothlypis leucoblephara,10,Generalists,Y
+Falopio,Corythopis delalandi,2,Generalists,N
+Falopio,Synallaxis ruficapilla,6,Generalists,Y
+Falopio,Mionectes rufiventris,2,Generalists,Y
+Falopio,Conopophaga lineata,8,Generalists,Y
+Falopio,Schiffornis virescens,4,Forest,Y
+Falopio,Tachyphonus coronatus,13,Generalists,Y
+Falopio,Lochmias nematura,5,Generalists,N
+Falopio,Tolmomyias sulphurescens,1,Generalists,N
+Falopio,Picumnus temminckii,1,Generalists,Y
+Falopio,Chiroxiphia caudata,9,Generalists,Y
+Falopio,Lepidocolaptes fuscus,6,Forest,Y
+Falopio,Trichothraupis melanops,5,Generalists,N
+Falopio,Pyriglena leucoptera,3,Forest,Y
+Falopio,Habia rubica,3,Forest,N
+Falopio,Automolus leucophthalmus,14,Generalists,Y
+Falopio,Saltator similis,3,Generalists,N
+Falopio,Catharus fuscescens,1,Generalists,N
+Falopio,Turdus albicollis,9,Generalists,N
+Falopio,Turdus rufiventris,5,Generalists,N
+Falopio,Leptotila rufaxilla,1,Generalists,N
+Falopio,Leptotila verreauxi,1,Generalists,N
+Falopio,Thalurania glaucopis,7,Forest,Y
+Falopio,Phaethornis pretrei,2,Generalists,N
+Fuzue,Sittasomus griseicapillus,3,Forest,N
+Fuzue,Basileuterus culicivorus,3,Generalists,N
+Fuzue,Platyrinchus mystaceus,5,Generalists,N
+Fuzue,Lepidocolaptes fuscus,7,Forest,Y
+Fuzue,Dysithamnus mentalis,4,Generalists,N
+Fuzue,Myiothlypis leucoblephara,5,Generalists,Y
+Fuzue,Conopophaga lineata,6,Generalists,Y
+Fuzue,Rhopias gularis ,1,Forest,Y
+Fuzue,Chiroxiphia caudata,6,Generalists,Y
+Fuzue,Leptopogon amaurocephalus,1,Generalists,N
+Fuzue,Myrmoderus squamosus,1,Forest,Y
+Fuzue,Trichothraupis melanops,4,Generalists,N
+Fuzue,Picumnus temminckii,1,Generalists,Y
+Fuzue,Sclerurus scansor,6,Forest,Y
+Fuzue,Pyriglena leucoptera,1,Forest,Y
+Fuzue,Trogon rufus,1,Forest,N
+Fuzue,Dendrocolaptes platyrostris,1,Forest,N
+Fuzue,Myiodynastes solitarius,1,Generalists,N
+Fuzue,Turdus rufiventris,1,Generalists,N
+Fuzue,Turdus albicollis,2,Generalists,N
+Fuzue,Batara cinerea,3,Generalists,N
+Fuzue,Thalurania glaucopis,3,Forest,Y
+Fuzue,Phaethornis eurynome,3,Forest,Y
+Fuzue,Leucochloris albicollis,1,Generalists,Y
+Godoy,Phaethornis eurynome,2,Forest,Y
+Godoy,Leptopogon amaurocephalus,1,Generalists,N
+Godoy,Platyrinchus mystaceus,5,Generalists,N
+Godoy,Xenops minutus,3,Forest,N
+Godoy,Conopophaga lineata,5,Generalists,Y
+Godoy,Basileuterus culicivorus,4,Generalists,N
+Godoy,Myiothlypis leucoblephara,5,Generalists,Y
+Godoy,Chiroxiphia caudata,4,Generalists,Y
+Godoy,Myrmoderus squamosus,2,Forest,Y
+Godoy,Lepidocolaptes fuscus,3,Forest,Y
+Godoy,Mionectes rufiventris,1,Generalists,Y
+Godoy,Schiffornis virescens,2,Forest,Y
+Godoy,Dysithamnus mentalis,1,Generalists,N
+Godoy,Thamnophilus caerulescens,2,Generalists,N
+Godoy,Trichothraupis melanops,2,Generalists,N
+Godoy,Syndactyla rufosuperciliata,3,Generalists,N
+Godoy,Pyriglena leucoptera,3,Forest,Y
+Godoy,Sclerurus scansor,3,Forest,Y
+Godoy,Automolus leucophthalmus,2,Generalists,Y
+Godoy,Dendrocolaptes platyrostris,4,Forest,N
+Godoy,Turdus albicollis,3,Generalists,N
+Godoy,Turdus rufiventris,5,Generalists,N
+Godoy,Celeus flavescens,1,Generalists,N
+Godoy,Batara cinerea,2,Generalists,N
+Godoy,Leptotila verreauxi,1,Generalists,N
+Godoy,Thalurania glaucopis,1,Forest,Y
+Godoy,Leptotila rufaxilla,1,Generalists,N
+Haras,Platyrinchus mystaceus,3,Generalists,N
+Haras,Lathrotriccus euleri,3,Generalists,N
+Haras,Synallaxis ruficapilla,1,Generalists,Y
+Haras,Leptopogon amaurocephalus,2,Generalists,N
+Haras,Basileuterus culicivorus,1,Generalists,N
+Haras,Mionectes rufiventris,1,Generalists,Y
+Haras,Sittasomus griseicapillus,2,Forest,N
+Haras,Myiothlypis leucoblephara,1,Generalists,Y
+Haras,Conopophaga lineata,1,Generalists,Y
+Haras,Chiroxiphia caudata,1,Generalists,Y
+Haras,Lepidocolaptes fuscus,1,Forest,Y
+Haras,Syndactyla rufosuperciliata,2,Generalists,N
+Haras,Haplospiza unicolor,2,Forest,Y
+Haras,Pyriglena leucoptera,4,Forest,Y
+Haras,Trichothraupis melanops,1,Generalists,N
+Haras,Thamnophilus caerulescens,1,Generalists,N
+Haras,Tachyphonus coronatus,1,Generalists,Y
+Haras,Turdus albicollis,1,Generalists,N
+Haras,Attila rufus,1,Forest,Y
+Haras,Mackenziana leachii,1,Generalists,Y
+Haras,Turdus rufiventris,3,Generalists,N
+Haras,Thalurania glaucopis,1,Forest,Y
+Haras,Phaethornis eurynome,1,Forest,Y
+Harpa,Platyrinchus mystaceus,5,Generalists,N
+Harpa,Basileuterus culicivorus,8,Generalists,N
+Harpa,Phylloscartes ventralis,1,Generalists,N
+Harpa,Camptostoma obsoletum,1,Forest,N
+Harpa,Dysithamnus mentalis,10,Generalists,N
+Harpa,Synallaxis spixi,1,Generalists,N
+Harpa,Synallaxis ruficapilla,7,Generalists,Y
+Harpa,Mionectes rufiventris,1,Generalists,Y
+Harpa,Leptopogon amaurocephalus,1,Generalists,N
+Harpa,Lathrotriccus euleri,1,Generalists,N
+Harpa,Thamnophilus caerulescens,8,Generalists,N
+Harpa,Tachyphonus coronatus,9,Generalists,Y
+Harpa,Conopophaga lineata,12,Generalists,Y
+Harpa,Picumnus temminckii,1,Generalists,Y
+Harpa,Chiroxiphia caudata,4,Generalists,Y
+Harpa,Trichothraupis melanops,6,Generalists,N
+Harpa,Myiothlypis leucoblephara,1,Generalists,Y
+Harpa,Automolus leucophthalmus,9,Generalists,Y
+Harpa,Myiodynastes solitarius,1,Generalists,N
+Harpa,Saltator similis,2,Generalists,N
+Harpa,Veniliornis spilogaster,1,Generalists,Y
+Harpa,Arremon semitorquatus,1,Generalists,Y
+Harpa,Turdus albicollis,3,Generalists,N
+Harpa,Turdus rufiventris,6,Generalists,N
+Harpa,Geotrygon montana,2,Forest,N
+Harpa,Leptotila rufaxilla,2,Generalists,N
+Harpa,Thalurania glaucopis,4,Forest,Y
+Japones,Platyrinchus mystaceus,5,Generalists,N
+Japones,Hemitriccus orbitatus,4,Forest,Y
+Japones,Leptopogon amaurocephalus,2,Generalists,N
+Japones,Lathrotriccus euleri,1,Generalists,N
+Japones,Basileuterus culicivorus,8,Generalists,N
+Japones,Dysithamnus mentalis,7,Generalists,N
+Japones,Xenops minutus,3,Forest,N
+Japones,Synallaxis ruficapilla,4,Generalists,Y
+Japones,Sittasomus griseicapillus,3,Forest,N
+Japones,Picumnus cirratus,1,Generalists,N
+Japones,Syndactyla rufosuperciliata,4,Generalists,N
+Japones,Chiroxiphia caudata,17,Generalists,Y
+Japones,Thamnophilus caerulescens,6,Generalists,N
+Japones,Lepidocolaptes fuscus,5,Forest,Y
+Japones,Myiothlypis leucoblephara,4,Generalists,Y
+Japones,Haplospiza unicolor,1,Forest,Y
+Japones,Schiffornis virescens,2,Forest,Y
+Japones,Conopophaga lineata,2,Generalists,Y
+Japones,Trichothraupis melanops,13,Generalists,N
+Japones,Synallaxis spixi,1,Generalists,N
+Japones,Mionectes rufiventris,2,Generalists,Y
+Japones,Pyriglena leucoptera,6,Forest,Y
+Japones,Tachyphonus coronatus,6,Generalists,Y
+Japones,Dendrocolaptes platyrostris,1,Forest,N
+Japones,Turdus albicollis,4,Generalists,N
+Japones,Malacoptila striata,1,Generalists,Y
+Japones,Leptotila verreauxi,3,Generalists,N
+Japones,Leptotila rufaxilla,1,Generalists,N
+Japones,Attila rufus,1,Forest,Y
+Japones,Turdus rufiventris,4,Generalists,N
+Japones,Saltator similis,1,Generalists,N
+Japones,Piaya cayana,1,Generalists,N
+Jeanzao,Platyrinchus mystaceus,10,Generalists,N
+Jeanzao,Sittasomus griseicapillus,5,Forest,N
+Jeanzao,Xenops minutus,2,Forest,N
+Jeanzao,Lathrotriccus euleri,6,Generalists,N
+Jeanzao,Myiobius atricaudus,1,Forest,N
+Jeanzao,Basileuterus culicivorus,5,Generalists,N
+Jeanzao,Leptopogon amaurocephalus,1,Generalists,N
+Jeanzao,Myiothlypis leucoblephara,5,Generalists,Y
+Jeanzao,Rhopias gularis ,1,Forest,Y
+Jeanzao,Lepidocolaptes fuscus,5,Forest,Y
+Jeanzao,Schiffornis virescens,3,Forest,Y
+Jeanzao,Chiroxiphia caudata,4,Generalists,Y
+Jeanzao,Conopophaga lineata,3,Generalists,Y
+Jeanzao,Haplospiza unicolor,2,Forest,Y
+Jeanzao,Syndactyla rufosuperciliata,1,Generalists,N
+Jeanzao,Sclerurus scansor,3,Forest,Y
+Jeanzao,Pyriglena leucoptera,7,Forest,Y
+Jeanzao,Trichothraupis melanops,6,Generalists,N
+Jeanzao,Attila rufus,2,Forest,Y
+Jeanzao,Turdus albicollis,5,Generalists,N
+Jeanzao,Saltator similis,1,Generalists,N
+Jeanzao,Turdus rufiventris,1,Generalists,N
+Jeanzao,Leptotila rufaxilla,2,Generalists,N
+Jeanzao,Leptotila verreauxi,1,Generalists,N
+Jeanzao,Batara cinerea,1,Generalists,N
+Jeanzao,Micrastur ruficollis,1,Forest,N
+Jeanzao,Thalurania glaucopis,3,Forest,Y
+Jeanzao,Phaethornis eurynome,1,Forest,Y
+Jeanzao,Melanotrochilus fuscus,1,Generalists,Y
+Jeanzinho,Basileuterus culicivorus,4,Generalists,N
+Jeanzinho,Sittasomus griseicapillus,3,Forest,N
+Jeanzinho,Lathrotriccus euleri,4,Generalists,N
+Jeanzinho,Rhopias gularis ,1,Forest,Y
+Jeanzinho,Cnemotriccus fuscatus,1,Forest,N
+Jeanzinho,Platyrinchus mystaceus,6,Generalists,N
+Jeanzinho,Tolmomyias sulphurescens,2,Generalists,N
+Jeanzinho,Myiothlypis leucoblephara,1,Generalists,Y
+Jeanzinho,Dysithamnus mentalis,2,Generalists,N
+Jeanzinho,Xenops minutus,1,Forest,N
+Jeanzinho,Conopophaga lineata,8,Generalists,Y
+Jeanzinho,Lepidocolaptes fuscus,4,Forest,Y
+Jeanzinho,Myrmoderus squamosus,2,Forest,Y
+Jeanzinho,Schiffornis virescens,1,Forest,Y
+Jeanzinho,Trichothraupis melanops,3,Generalists,N
+Jeanzinho,Chiroxiphia caudata,4,Generalists,Y
+Jeanzinho,Tachyphonus coronatus,1,Generalists,Y
+Jeanzinho,Pyriglena leucoptera,3,Forest,Y
+Jeanzinho,Sclerurus scansor,1,Forest,Y
+Jeanzinho,Syndactyla rufosuperciliata,1,Generalists,N
+Jeanzinho,Turdus albicollis,3,Generalists,N
+Jeanzinho,Platycichla flavipes,3,Forest,N
+Jeanzinho,Veniliornis spilogaster,1,Generalists,Y
+Jeanzinho,Xiphocolaptes albicollis,3,Forest,N
+Jeanzinho,Turdus rufiventris,2,Generalists,N
+Jeanzinho,Trogon rufus,1,Forest,N
+Jeanzinho,Micrastur ruficollis,1,Forest,N
+Jeanzinho,Leptotila verreauxi,1,Generalists,N
+Jeanzinho,Phaethornis eurynome,7,Forest,Y
+Jeanzinho,Thalurania glaucopis,7,Forest,Y
+Jeanzinho,Batara cinerea,1,Generalists,N
+Jeanzinho,Haplospiza unicolor,2,Forest,Y
+Jeanzinho,Clytolaema rubricauda,2,Forest,Y
+Lila,Thalurania glaucopis,1,Forest,Y
+Lila,Phaethornis eurynome,6,Forest,Y
+Lila,Hemitriccus orbitatus,5,Forest,Y
+Lila,Platyrinchus mystaceus,5,Generalists,N
+Lila,Neopelma chrysolophum,2,Forest,Y
+Lila,Dysithamnus mentalis,6,Generalists,N
+Lila,Basileuterus culicivorus,6,Generalists,N
+Lila,Myiothlypis leucoblephara,2,Generalists,Y
+Lila,Synallaxis ruficapilla,7,Generalists,Y
+Lila,Conirostrum speciosum,1,Forest,N
+Lila,Conopophaga lineata,9,Generalists,Y
+Lila,Syndactyla rufosuperciliata,3,Generalists,N
+Lila,Chiroxiphia caudata,14,Generalists,Y
+Lila,Mionectes rufiventris,1,Generalists,Y
+Lila,Sittasomus griseicapillus,1,Forest,N
+Lila,Lepidocolaptes fuscus,6,Forest,Y
+Lila,Pyriglena leucoptera,2,Forest,Y
+Lila,Schiffornis virescens,2,Forest,Y
+Lila,Trichothraupis melanops,4,Generalists,N
+Lila,Malacoptila striata,3,Generalists,Y
+Lila,Automolus leucophthalmus,3,Generalists,Y
+Lila,Leptotila verreauxi,1,Generalists,N
+Lila,Picumnus cirratus,2,Generalists,N
+Lila,Turdus albicollis,4,Generalists,N
+Lila,Dendrocolaptes platyrostris,1,Forest,N
+Lila,Turdus rufiventris,2,Generalists,N
+Lila,Tachyphonus coronatus,1,Generalists,Y
+Lila,Tangara desmaresti,1,Forest,Y
+Linha,Myiobius atricaudus,1,Forest,N
+Linha,Sittasomus griseicapillus,9,Forest,N
+Linha,Platyrinchus mystaceus,5,Generalists,N
+Linha,Lathrotriccus euleri,2,Generalists,N
+Linha,Basileuterus culicivorus,6,Generalists,N
+Linha,Tolmomyias sulphurescens,1,Generalists,N
+Linha,Dysithamnus mentalis,6,Generalists,N
+Linha,Mionectes rufiventris,1,Generalists,Y
+Linha,Drymophila malura,1,Generalists,Y
+Linha,Chiroxiphia caudata,7,Generalists,Y
+Linha,Conopophaga lineata,5,Generalists,Y
+Linha,Lepidocolaptes fuscus,4,Forest,Y
+Linha,Haplospiza unicolor,2,Forest,Y
+Linha,Myiothlypis leucoblephara,2,Generalists,Y
+Linha,Trichothraupis melanops,12,Generalists,N
+Linha,Schiffornis virescens,4,Forest,Y
+Linha,Tangara desmaresti,7,Forest,Y
+Linha,Myrmoderus squamosus,1,Forest,Y
+Linha,Picumnus temminckii,1,Generalists,Y
+Linha,Sclerurus scansor,3,Forest,Y
+Linha,Cichlocolaptes leucophris,1,Generalists,Y
+Linha,Thamnophilus caerulescens,1,Generalists,N
+Linha,Syndactyla rufosuperciliata,2,Generalists,N
+Linha,Pyriglena leucoptera,6,Forest,Y
+Linha,Tachyphonus coronatus,3,Generalists,Y
+Linha,Turdus rufiventris,4,Generalists,N
+Linha,Turdus albicollis,2,Generalists,N
+Linha,Grallaria varia,1,Generalists,N
+Linha,Thalurania glaucopis,4,Forest,Y
+Linha,Phaethornis eurynome,2,Forest,Y
+Linha,Leucochloris albicollis,1,Generalists,Y
+Linha,Chlorostilbon aureoventris,1,Generalists,N
+Lira,Lathrotriccus euleri,2,Generalists,N
+Lira,Platyrinchus mystaceus,2,Generalists,N
+Lira,Basileuterus culicivorus,5,Generalists,N
+Lira,Dysithamnus mentalis,7,Generalists,N
+Lira,Synallaxis ruficapilla,3,Generalists,Y
+Lira,Myiothlypis leucoblephara,2,Generalists,Y
+Lira,Haplospiza unicolor,2,Forest,Y
+Lira,Conopophaga lineata,13,Generalists,Y
+Lira,Trichothraupis melanops,4,Generalists,N
+Lira,Chiroxiphia caudata,7,Generalists,Y
+Lira,Thamnophilus caerulescens,1,Generalists,N
+Lira,Tachyphonus coronatus,4,Generalists,Y
+Lira,Habia rubica,1,Forest,N
+Lira,Automolus leucophthalmus,9,Generalists,Y
+Lira,Cyclarhis gujanensis,1,Generalists,N
+Lira,Veniliornis spilogaster,1,Generalists,Y
+Lira,Turdus albicollis,1,Generalists,N
+Lira,Leptotila verreauxi,1,Generalists,N
+Lira,Geotrygon montana,1,Forest,N
+Lira,Thalurania glaucopis,2,Forest,Y
+Lira,Picumnus temminckii,1,Generalists,Y
+Luiza Osmal,Phaethornis eurynome,4,Forest,Y
+Luiza Osmal,Thalurania glaucopis,2,Forest,Y
+Luiza Osmal,Platyrinchus mystaceus,1,Generalists,N
+Luiza Osmal,Leptopogon amaurocephalus,2,Generalists,N
+Luiza Osmal,Coereba flaveola,1,Forest,N
+Luiza Osmal,Chiroxiphia caudata,5,Generalists,Y
+Luiza Osmal,Basileuterus culicivorus,4,Generalists,N
+Luiza Osmal,Myiothlypis leucoblephara,2,Generalists,Y
+Luiza Osmal,Conopophaga lineata,6,Generalists,Y
+Luiza Osmal,Synallaxis ruficapilla,1,Generalists,Y
+Luiza Osmal,Dysithamnus mentalis,2,Generalists,N
+Luiza Osmal,Mionectes rufiventris,2,Generalists,Y
+Luiza Osmal,Lepidocolaptes fuscus,4,Forest,Y
+Luiza Osmal,Tachyphonus coronatus,7,Generalists,Y
+Luiza Osmal,Trichothraupis melanops,3,Generalists,N
+Luiza Osmal,Thamnophilus caerulescens,1,Generalists,N
+Luiza Osmal,Pyriglena leucoptera,7,Forest,Y
+Luiza Osmal,Turdus albicollis,5,Generalists,N
+Luiza Osmal,Malacoptila striata,1,Generalists,Y
+Luiza Osmal,Turdus rufiventris,7,Generalists,N
+Luiza Osmal,Saltator similis,2,Generalists,N
+Luiza Osmal,Dendrocolaptes platyrostris,1,Forest,N
+Machucado,Platyrinchus mystaceus,6,Generalists,N
+Machucado,Basileuterus culicivorus,10,Generalists,N
+Machucado,Synallaxis ruficapilla,2,Generalists,Y
+Machucado,Lathrotriccus euleri,2,Generalists,N
+Machucado,Myiothlypis leucoblephara,7,Generalists,Y
+Machucado,Dysithamnus mentalis,4,Generalists,N
+Machucado,Mionectes rufiventris,1,Generalists,Y
+Machucado,Conopophaga lineata,12,Generalists,Y
+Machucado,Picumnus temminckii,1,Generalists,Y
+Machucado,Trichothraupis melanops,11,Generalists,N
+Machucado,Chiroxiphia caudata,2,Generalists,Y
+Machucado,Lepidocolaptes fuscus,2,Forest,Y
+Machucado,Tachyphonus coronatus,3,Generalists,Y
+Machucado,Sittasomus griseicapillus,1,Forest,N
+Machucado,Syndactyla rufosuperciliata,3,Generalists,N
+Machucado,Lochmias nematura,1,Generalists,N
+Machucado,Thamnophilus caerulescens,2,Generalists,N
+Machucado,Automolus leucophthalmus,5,Generalists,Y
+Machucado,Veniliornis spilogaster,1,Generalists,Y
+Machucado,Turdus rufiventris,15,Generalists,N
+Machucado,Turdus albicollis,5,Generalists,N
+Machucado,Turdus amaurochalinus,3,Generalists,N
+Machucado,Leptotila verreauxi,1,Generalists,N
+Machucado,Thalurania glaucopis,3,Forest,Y
+Machucado,Leptotila rufaxilla,1,Generalists,N
+Maria,Phaethornis eurynome,2,Forest,Y
+Maria,Lathrotriccus euleri,1,Generalists,N
+Maria,Platyrinchus mystaceus,1,Generalists,N
+Maria,Myiobius atricaudus,1,Forest,N
+Maria,Myiothlypis leucoblephara,2,Generalists,Y
+Maria,Volatinia jacarina,1,Generalists,N
+Maria,Syndactyla rufosuperciliata,3,Generalists,N
+Maria,Xenops minutus,1,Forest,N
+Maria,Synallaxis ruficapilla,1,Generalists,Y
+Maria,Mionectes rufiventris,2,Generalists,Y
+Maria,Dysithamnus mentalis,2,Generalists,N
+Maria,Basileuterus culicivorus,1,Generalists,N
+Maria,Chiroxiphia caudata,2,Generalists,Y
+Maria,Lochmias nematura,1,Generalists,N
+Maria,Tachyphonus coronatus,2,Generalists,Y
+Maria,Conopophaga lineata,4,Generalists,Y
+Maria,Lepidocolaptes fuscus,2,Forest,Y
+Maria,Trichothraupis melanops,9,Generalists,N
+Maria,Pyriglena leucoptera,3,Forest,Y
+Maria,Automolus leucophthalmus,1,Generalists,Y
+Maria,Turdus albicollis,7,Generalists,N
+Maria,Turdus rufiventris,7,Generalists,N
+Maria,Platycichla flavipes,1,Forest,N
+Maria,Batara cinerea,1,Generalists,N
+Maria,Leptotila verreauxi,1,Generalists,N
+Maria,Malacoptila striata,1,Generalists,Y
+Maria,Sclerurus scansor,1,Forest,Y
+Medico,Sittasomus griseicapillus,4,Forest,N
+Medico,Platyrinchus mystaceus,3,Generalists,N
+Medico,Xenops minutus,3,Forest,N
+Medico,Leptopogon amaurocephalus,1,Generalists,N
+Medico,Myiobius atricaudus,1,Forest,N
+Medico,Rhopias gularis ,7,Forest,Y
+Medico,Myrmoderus squamosus,4,Forest,Y
+Medico,Lepidocolaptes fuscus,7,Forest,Y
+Medico,Mionectes rufiventris,7,Generalists,Y
+Medico,Chiroxiphia caudata,7,Generalists,Y
+Medico,Schiffornis virescens,6,Forest,Y
+Medico,Conopophaga lineata,2,Generalists,Y
+Medico,Dysithamnus mentalis,5,Generalists,N
+Medico,Basileuterus culicivorus,1,Generalists,N
+Medico,Myiothlypis leucoblephara,1,Generalists,Y
+Medico,Ramphotrigon megacephala,1,Forest,N
+Medico,Haplospiza unicolor,3,Forest,Y
+Medico,Myiobius barbatus,1,Forest,N
+Medico,Trichothraupis melanops,3,Generalists,N
+Medico,Tachyphonus coronatus,1,Generalists,Y
+Medico,Lepidocolaptes squamatus,1,Forest,Y
+Medico,Pyriglena leucoptera,5,Forest,Y
+Medico,Formicarius colma,2,Forest,N
+Medico,Veniliornis spilogaster,1,Generalists,Y
+Medico,Sclerurus scansor,1,Forest,Y
+Medico,Dendrocincla turdina,2,Forest,Y
+Medico,Anabacerthia amaurotis,1,Forest,Y
+Medico,Automolus leucophthalmus,2,Generalists,Y
+Medico,Habia rubica,10,Forest,N
+Medico,Saltator similis,2,Generalists,N
+Medico,Tangara cyanoptera,1,Forest,Y
+Medico,Dendrocolaptes platyrostris,2,Forest,N
+Medico,Turdus albicollis,1,Generalists,N
+Medico,Geotrygon montana,2,Forest,N
+Medico,Leptotila rufaxilla,1,Generalists,N
+Medico,Phaethornis eurynome,5,Forest,Y
+Medico,Thalurania glaucopis,1,Forest,Y
+Medico,Amazilia versicolor,1,Forest,N
+Medico,Phaethornis squalidus,1,Forest,N
+Meninas,Basileuterus culicivorus,12,Generalists,N
+Meninas,Lathrotriccus euleri,2,Generalists,N
+Meninas,Platyrinchus mystaceus,2,Generalists,N
+Meninas,Dysithamnus mentalis,20,Generalists,N
+Meninas,Synallaxis ruficapilla,4,Generalists,Y
+Meninas,Myiothlypis leucoblephara,7,Generalists,Y
+Meninas,Conopophaga lineata,7,Generalists,Y
+Meninas,Trichothraupis melanops,10,Generalists,N
+Meninas,Chiroxiphia caudata,3,Generalists,Y
+Meninas,Thamnophilus caerulescens,4,Generalists,N
+Meninas,Picumnus temminckii,1,Generalists,Y
+Meninas,Thlypopsis pyrrhocoma,1,Generalists,Y
+Meninas,Tachyphonus coronatus,7,Generalists,Y
+Meninas,Cyclarhis gujanensis,2,Generalists,N
+Meninas,Automolus leucophthalmus,4,Generalists,Y
+Meninas,Turdus albicollis,4,Generalists,N
+Meninas,Syndactyla rufosuperciliata,3,Generalists,N
+Meninas,Turdus rufiventris,8,Generalists,N
+Meninas,Turdus leucomelas,1,Generalists,N
+Meninas,Turdus amaurochalinus,1,Generalists,N
+Meninas,Saltator similis,1,Generalists,N
+Meninas,Thalurania glaucopis,5,Forest,Y
+Meninas,Amazilia lactea,1,Generalists,N
+Mioko,Thalurania glaucopis,1,Forest,Y
+Mioko,Melanotrochilus fuscus,1,Generalists,Y
+Mioko,Platyrinchus mystaceus,3,Generalists,N
+Mioko,Basileuterus culicivorus,2,Generalists,N
+Mioko,Dysithamnus mentalis,1,Generalists,N
+Mioko,Schiffornis virescens,3,Forest,Y
+Mioko,Conopophaga lineata,4,Generalists,Y
+Mioko,Sittasomus griseicapillus,4,Forest,N
+Mioko,Thamnophilus caerulescens,1,Generalists,N
+Mioko,Trichothraupis melanops,3,Generalists,N
+Mioko,Chiroxiphia caudata,10,Generalists,Y
+Mioko,Pyriglena leucoptera,2,Forest,Y
+Mioko,Saltator similis,1,Generalists,N
+Mioko,Lepidocolaptes fuscus,2,Forest,Y
+Mioko,Sclerurus scansor,5,Forest,Y
+Mioko,Turdus albicollis,5,Generalists,N
+Mioko,Turdus rufiventris,4,Generalists,N
+Mioko,Dendrocolaptes platyrostris,2,Forest,N
+Mioko,Leptotila verreauxi,1,Generalists,N
+Nelson,Thalurania glaucopis,3,Forest,Y
+Nelson,Phaethornis eurynome,2,Forest,Y
+Nelson,Platyrinchus mystaceus,3,Generalists,N
+Nelson,Volatinia jacarina,1,Generalists,N
+Nelson,Leptopogon amaurocephalus,4,Generalists,N
+Nelson,Conopophaga lineata,5,Generalists,Y
+Nelson,Myiothlypis leucoblephara,7,Generalists,Y
+Nelson,Chiroxiphia caudata,6,Generalists,Y
+Nelson,Mionectes rufiventris,1,Generalists,Y
+Nelson,Basileuterus culicivorus,3,Generalists,N
+Nelson,Picumnus cirratus,1,Generalists,N
+Nelson,Sittasomus griseicapillus,1,Forest,N
+Nelson,Synallaxis ruficapilla,1,Generalists,Y
+Nelson,Lepidocolaptes fuscus,8,Forest,Y
+Nelson,Thamnophilus caerulescens,1,Generalists,N
+Nelson,Dysithamnus mentalis,3,Generalists,N
+Nelson,Tachyphonus coronatus,1,Generalists,Y
+Nelson,Schiffornis virescens,2,Forest,Y
+Nelson,Trichothraupis melanops,6,Generalists,N
+Nelson,Dendrocolaptes platyrostris,1,Forest,N
+Nelson,Automolus leucophthalmus,1,Generalists,Y
+Nelson,Malacoptila striata,1,Generalists,Y
+Nelson,Turdus rufiventris,1,Generalists,N
+Nelson,Turdus albicollis,4,Generalists,N
+Nelson,Pyriglena leucoptera,3,Forest,Y
+Nelson,Sclerurus scansor,2,Forest,Y
+Nelson,Syndactyla rufosuperciliata,1,Generalists,N
+Odorico,Sittasomus griseicapillus,10,Forest,N
+Odorico,Basileuterus culicivorus,2,Generalists,N
+Odorico,Platyrinchus mystaceus,4,Generalists,N
+Odorico,Myiobius atricaudus,1,Forest,N
+Odorico,Mionectes rufiventris,1,Generalists,Y
+Odorico,Rhopias gularis ,1,Forest,Y
+Odorico,Myiothlypis leucoblephara,1,Generalists,Y
+Odorico,Lepidocolaptes fuscus,7,Forest,Y
+Odorico,Scytalopus speluncae,1,Forest,Y
+Odorico,Chiroxiphia caudata,4,Generalists,Y
+Odorico,Schiffornis virescens,4,Forest,Y
+Odorico,Conopophaga lineata,6,Generalists,Y
+Odorico,Trichothraupis melanops,14,Generalists,N
+Odorico,Sclerurus scansor,3,Forest,Y
+Odorico,Myrmoderus squamosus,1,Forest,Y
+Odorico,Pyriglena leucoptera,6,Forest,Y
+Odorico,Dendrocincla turdina,2,Forest,Y
+Odorico,Habia rubica,5,Forest,N
+Odorico,Attila rufus,2,Forest,Y
+Odorico,Anabazenops fuscus,1,Forest,Y
+Odorico,Automolus leucophthalmus,4,Generalists,Y
+Odorico,Turdus albicollis,1,Generalists,N
+Odorico,Chamaeza meruloides,1,Forest,Y
+Odorico,Dendrocolaptes platyrostris,1,Forest,N
+Odorico,Trogon rufus,1,Forest,N
+Odorico,Leptotila rufaxilla,1,Generalists,N
+Odorico,Geotrygon montana,1,Forest,N
+Odorico,Micrastur ruficollis,2,Forest,N
+Odorico,Leptotila verreauxi,1,Generalists,N
+Odorico,Phaethornis eurynome,6,Forest,Y
+Odorico,Haplospiza unicolor,1,Forest,Y
+Osasco,Platyrinchus mystaceus,11,Generalists,N
+Osasco,Sittasomus griseicapillus,4,Forest,N
+Osasco,Rhopias gularis ,1,Forest,Y
+Osasco,Leptopogon amaurocephalus,1,Generalists,N
+Osasco,Basileuterus culicivorus,1,Generalists,N
+Osasco,Tolmomyias sulphurescens,1,Generalists,N
+Osasco,Phylloscartes ventralis,1,Generalists,N
+Osasco,Conopophaga lineata,11,Generalists,Y
+Osasco,Myiothlypis leucoblephara,6,Generalists,Y
+Osasco,Dysithamnus mentalis,3,Generalists,N
+Osasco,Schiffornis virescens,8,Forest,Y
+Osasco,Chiroxiphia caudata,15,Generalists,Y
+Osasco,Synallaxis ruficapilla,1,Generalists,Y
+Osasco,Euphonia pectoralis,1,Forest,Y
+Osasco,Mionectes rufiventris,1,Generalists,Y
+Osasco,Vireo olivaceus,1,Generalists,N
+Osasco,Lepidocolaptes fuscus,1,Forest,Y
+Osasco,Trichothraupis melanops,7,Generalists,N
+Osasco,Pipraeidea melanonota,1,Generalists,N
+Osasco,Syndactyla rufosuperciliata,2,Generalists,N
+Osasco,Pyriglena leucoptera,3,Forest,Y
+Osasco,Sclerurus scansor,2,Forest,Y
+Osasco,Attila rufus,1,Forest,Y
+Osasco,Tachyphonus coronatus,3,Generalists,Y
+Osasco,Turdus albicollis,3,Generalists,N
+Osasco,Saltator similis,1,Generalists,N
+Osasco,Turdus rufiventris,1,Generalists,N
+Osasco,Xiphocolaptes albicollis,2,Forest,N
+Osasco,Leptotila verreauxi,1,Generalists,N
+Osasco,Thalurania glaucopis,1,Forest,Y
+Osasco,Phaethornis eurynome,4,Forest,Y
+Osasco,Thamnophilus caerulescens,1,Generalists,N
+Osasco,Leucochloris albicollis,1,Generalists,Y
+Padre Pedro,Basileuterus culicivorus,12,Generalists,N
+Padre Pedro,Platyrinchus mystaceus,2,Generalists,N
+Padre Pedro,Lathrotriccus euleri,3,Generalists,N
+Padre Pedro,Myiothlypis leucoblephara,12,Generalists,Y
+Padre Pedro,Leptopogon amaurocephalus,1,Generalists,N
+Padre Pedro,Synallaxis ruficapilla,1,Generalists,Y
+Padre Pedro,Mionectes rufiventris,2,Generalists,Y
+Padre Pedro,Corythopis delalandi,1,Generalists,N
+Padre Pedro,Thlypopsis pyrrhocoma,2,Generalists,Y
+Padre Pedro,Trichothraupis melanops,7,Generalists,N
+Padre Pedro,Conopophaga lineata,9,Generalists,Y
+Padre Pedro,Thamnophilus caerulescens,3,Generalists,N
+Padre Pedro,Tachyphonus coronatus,2,Generalists,Y
+Padre Pedro,Cyclarhis gujanensis,1,Generalists,N
+Padre Pedro,Syndactyla rufosuperciliata,2,Generalists,N
+Padre Pedro,Automolus leucophthalmus,4,Generalists,Y
+Padre Pedro,Turdus rufiventris,5,Generalists,N
+Padre Pedro,Hylatomus lineatus,1,Generalists,N
+Padre Pedro,Leptotila verreauxi,1,Generalists,N
+Padre Pedro,Colaptes melanochloros,1,Generalists,N
+Padre Pedro,Thalurania glaucopis,6,Forest,Y
+Paulo Nunes,Tolmomyias sulphurescens,2,Generalists,N
+Paulo Nunes,Lathrotriccus euleri,5,Generalists,N
+Paulo Nunes,Basileuterus culicivorus,16,Generalists,N
+Paulo Nunes,Platyrinchus mystaceus,3,Generalists,N
+Paulo Nunes,Myiothlypis leucoblephara,13,Generalists,Y
+Paulo Nunes,Synallaxis ruficapilla,9,Generalists,Y
+Paulo Nunes,Dysithamnus mentalis,8,Generalists,N
+Paulo Nunes,Mionectes rufiventris,2,Generalists,Y
+Paulo Nunes,Conopophaga lineata,18,Generalists,Y
+Paulo Nunes,Tachyphonus coronatus,6,Generalists,Y
+Paulo Nunes,Trichothraupis melanops,11,Generalists,N
+Paulo Nunes,Thamnophilus caerulescens,10,Generalists,N
+Paulo Nunes,Chiroxiphia caudata,5,Generalists,Y
+Paulo Nunes,Syndactyla rufosuperciliata,5,Generalists,N
+Paulo Nunes,Cyclarhis gujanensis,4,Generalists,N
+Paulo Nunes,Dendrocolaptes platyrostris,2,Forest,N
+Paulo Nunes,Automolus leucophthalmus,2,Generalists,Y
+Paulo Nunes,Saltator similis,4,Generalists,N
+Paulo Nunes,Turdus rufiventris,7,Generalists,N
+Paulo Nunes,Turdus albicollis,6,Generalists,N
+Paulo Nunes,Leptotila rufaxilla,1,Generalists,N
+Paulo Nunes,Geotrygon montana,2,Forest,N
+Paulo Nunes,Leptotila verreauxi,2,Generalists,N
+Paulo Nunes,Thalurania glaucopis,4,Forest,Y
+Paulo Nunes,Phaethornis pretrei,1,Generalists,N
+Paulo Nunes,Phaethornis eurynome,2,Forest,Y
+Paulo Nunes,Melanotrochilus fuscus,1,Generalists,Y
+Paulo Nunes,Chlorostilbon aureoventris,1,Generalists,N
+Pedro,Phaethornis eurynome,3,Forest,Y
+Pedro,Platyrinchus mystaceus,8,Generalists,N
+Pedro,Xenops minutus,1,Forest,N
+Pedro,Myiothlypis leucoblephara,10,Generalists,Y
+Pedro,Chiroxiphia caudata,11,Generalists,Y
+Pedro,Myiobius atricaudus,1,Forest,N
+Pedro,Basileuterus culicivorus,2,Generalists,N
+Pedro,Leptopogon amaurocephalus,2,Generalists,N
+Pedro,Mionectes rufiventris,1,Generalists,Y
+Pedro,Synallaxis ruficapilla,2,Generalists,Y
+Pedro,Picumnus cirratus,2,Generalists,N
+Pedro,Dysithamnus mentalis,3,Generalists,N
+Pedro,Tachyphonus coronatus,6,Generalists,Y
+Pedro,Conopophaga lineata,4,Generalists,Y
+Pedro,Schiffornis virescens,2,Forest,Y
+Pedro,Trichothraupis melanops,3,Generalists,N
+Pedro,Sittasomus griseicapillus,2,Forest,N
+Pedro,Thamnophilus caerulescens,2,Generalists,N
+Pedro,Lepidocolaptes fuscus,9,Forest,Y
+Pedro,Myrmoderus squamosus,1,Forest,Y
+Pedro,Pyriglena leucoptera,6,Forest,Y
+Pedro,Cyclarhis gujanensis,1,Generalists,N
+Pedro,Automolus leucophthalmus,2,Generalists,Y
+Pedro,Attila rufus,1,Forest,Y
+Pedro,Sclerurus scansor,4,Forest,Y
+Pedro,Syndactyla rufosuperciliata,1,Generalists,N
+Pedro,Turdus rufiventris,1,Generalists,N
+Pedro,Turdus albicollis,6,Generalists,N
+Pedro Onorio,Platyrinchus mystaceus,2,Generalists,N
+Pedro Onorio,Basileuterus culicivorus,9,Generalists,N
+Pedro Onorio,Myiothlypis leucoblephara,4,Generalists,Y
+Pedro Onorio,Mionectes rufiventris,3,Generalists,Y
+Pedro Onorio,Synallaxis ruficapilla,2,Generalists,Y
+Pedro Onorio,Sporophila caerulescens,1,Generalists,N
+Pedro Onorio,Lochmias nematura,2,Generalists,N
+Pedro Onorio,Trichothraupis melanops,13,Generalists,N
+Pedro Onorio,Tachyphonus coronatus,2,Generalists,Y
+Pedro Onorio,Conopophaga lineata,2,Generalists,Y
+Pedro Onorio,Chiroxiphia caudata,6,Generalists,Y
+Pedro Onorio,Dysithamnus mentalis,1,Generalists,N
+Pedro Onorio,Thamnophilus caerulescens,2,Generalists,N
+Pedro Onorio,Saltator similis,1,Generalists,N
+Pedro Onorio,Turdus rufiventris,20,Generalists,N
+Pedro Onorio,Lepidocolaptes fuscus,1,Forest,Y
+Pedro Onorio,Turdus albicollis,6,Generalists,N
+Pedro Onorio,Automolus leucophthalmus,2,Generalists,Y
+Pedro Onorio,Turdus amaurochalinus,1,Generalists,N
+Pedro Onorio,Rupornis magnirostris,2,Generalists,N
+Pedro Onorio,Thalurania glaucopis,3,Forest,Y
+Pedro Onorio,Phaethornis pretrei,1,Generalists,N
+Pedroso,Phaethornis eurynome,6,Forest,Y
+Pedroso,Platyrinchus mystaceus,6,Generalists,N
+Pedroso,Drymophila ochropyga,1,Forest,Y
+Pedroso,Hemitriccus diops,1,Forest,Y
+Pedroso,Myiothlypis leucoblephara,7,Generalists,Y
+Pedroso,Basileuterus culicivorus,2,Generalists,N
+Pedroso,Myrmoderus squamosus,2,Forest,Y
+Pedroso,Conopophaga lineata,10,Generalists,Y
+Pedroso,Sittasomus griseicapillus,3,Forest,N
+Pedroso,Trichothraupis melanops,5,Generalists,N
+Pedroso,Haplospiza unicolor,1,Forest,Y
+Pedroso,Dysithamnus mentalis,6,Generalists,N
+Pedroso,Mionectes rufiventris,1,Generalists,Y
+Pedroso,Leptopogon amaurocephalus,2,Generalists,N
+Pedroso,Synallaxis ruficapilla,1,Generalists,Y
+Pedroso,Tolmomyias sulphurescens,2,Generalists,N
+Pedroso,Lepidocolaptes fuscus,7,Forest,Y
+Pedroso,Chiroxiphia caudata,8,Generalists,Y
+Pedroso,Syndactyla rufosuperciliata,4,Generalists,N
+Pedroso,Lochmias nematura,1,Generalists,N
+Pedroso,Schiffornis virescens,2,Forest,Y
+Pedroso,Sclerurus scansor,4,Forest,Y
+Pedroso,Saltator similis,2,Generalists,N
+Pedroso,Automolus leucophthalmus,1,Generalists,Y
+Pedroso,Tachyphonus coronatus,3,Generalists,Y
+Pedroso,Pyriglena leucoptera,2,Forest,Y
+Pedroso,Dendrocolaptes platyrostris,1,Forest,N
+Pedroso,Turdus amaurochalinus,1,Generalists,N
+Pedroso,Turdus rufiventris,5,Generalists,N
+Pedroso,Turdus albicollis,4,Generalists,N
+Pedroso,Platycichla flavipes,2,Forest,N
+Piramba,Platyrinchus mystaceus,7,Generalists,N
+Piramba,Myrmotherula minor,6,Forest,Y
+Piramba,Myrmotherula unicolor,1,Forest,Y
+Piramba,Basileuterus culicivorus,7,Generalists,N
+Piramba,Sittasomus griseicapillus,4,Forest,N
+Piramba,Xenops minutus,2,Forest,N
+Piramba,Chiroxiphia caudata,6,Generalists,Y
+Piramba,Mionectes rufiventris,4,Generalists,Y
+Piramba,Rhopias gularis ,2,Forest,Y
+Piramba,Dysithamnus mentalis,1,Generalists,N
+Piramba,Leptopogon amaurocephalus,1,Generalists,N
+Piramba,Ilicura militaris,1,Forest,Y
+Piramba,Dendrocincla turdina,8,Forest,Y
+Piramba,Trichothraupis melanops,7,Generalists,N
+Piramba,Schiffornis virescens,6,Forest,Y
+Piramba,Myrmoderus squamosus,1,Forest,Y
+Piramba,Lepidocolaptes fuscus,4,Forest,Y
+Piramba,Euphonia violacea,1,Forest,N
+Piramba,Haplospiza unicolor,4,Forest,Y
+Piramba,Conopophaga melanops,3,Forest,Y
+Piramba,Anabacerthia lichtensteini ,3,Forest,Y
+Piramba,Pyriglena leucoptera,7,Forest,Y
+Piramba,Anabacerthia amaurotis,2,Forest,Y
+Piramba,Philydor atricapillus,3,Forest,Y
+Piramba,Attila rufus,1,Forest,Y
+Piramba,Veniliornis spilogaster,2,Generalists,Y
+Piramba,Habia rubica,13,Forest,N
+Piramba,Automolus leucophthalmus,8,Generalists,Y
+Piramba,Formicarius colma,1,Forest,N
+Piramba,Geotrygon montana,3,Forest,N
+Piramba,Selenidera maculirostris,1,Forest,Y
+Piramba,Phaethornis eurynome,8,Forest,Y
+Piramba,Thalurania glaucopis,4,Forest,Y
+Piramba,Phaethornis squalidus,1,Forest,N
+Piramba,Ramphodon naevius,2,Forest,Y
+Porteira,Ilicura militaris,1,Forest,Y
+Porteira,Rhopias gularis ,9,Forest,Y
+Porteira,Myiobius barbatus,4,Forest,N
+Porteira,Myiobius atricaudus,1,Forest,N
+Porteira,Platyrinchus mystaceus,5,Generalists,N
+Porteira,Conopophaga melanops,3,Forest,Y
+Porteira,Sittasomus griseicapillus,3,Forest,N
+Porteira,Chiroxiphia caudata,6,Generalists,Y
+Porteira,Xenops minutus,1,Forest,N
+Porteira,Basileuterus culicivorus,1,Generalists,N
+Porteira,Pyriglena leucoptera,4,Forest,Y
+Porteira,Tangara seledon,1,Forest,Y
+Porteira,Hypoedaleus guttatus,1,Forest,Y
+Porteira,Dendrocincla turdina,6,Forest,Y
+Porteira,Philydor atricapillus,2,Forest,Y
+Porteira,Schiffornis virescens,2,Forest,Y
+Porteira,Myrmoderus squamosus,3,Forest,Y
+Porteira,Dysithamnus mentalis,2,Generalists,N
+Porteira,Conopophaga lineata,3,Generalists,Y
+Porteira,Lepidocolaptes fuscus,3,Forest,Y
+Porteira,Myiothlypis rivularis,2,Forest,N
+Porteira,Haplospiza unicolor,1,Forest,Y
+Porteira,Anabacerthia amaurotis,1,Forest,Y
+Porteira,Lochmias nematura,2,Generalists,N
+Porteira,Sclerurus scansor,1,Forest,Y
+Porteira,Nonnula rubecula,1,Forest,N
+Porteira,Turdus albicollis,4,Generalists,N
+Porteira,Attila rufus,1,Forest,Y
+Porteira,Habia rubica,4,Forest,N
+Porteira,Automolus leucophthalmus,2,Generalists,Y
+Porteira,Formicarius colma,2,Forest,N
+Porteira,Trichothraupis melanops,2,Generalists,N
+Porteira,Chamaeza campanisona,1,Forest,N
+Porteira,Baryphthengus ruficapillus,3,Forest,Y
+Porteira,Phaethornis eurynome,3,Forest,Y
+Porteira,Amazilia versicolor,3,Forest,N
+Porteira,Thalurania glaucopis,4,Forest,Y
+Porteira,Phaethornis squalidus,2,Forest,N
+Porteira,Ramphodon naevius,2,Forest,Y
+Porteira,Xiphocolaptes albicollis,1,Forest,N
+Professor,Basileuterus culicivorus,5,Generalists,N
+Professor,Dysithamnus mentalis,4,Generalists,N
+Professor,Platyrinchus mystaceus,5,Generalists,N
+Professor,Hemitriccus diops,3,Forest,Y
+Professor,Lathrotriccus euleri,2,Generalists,N
+Professor,Sittasomus griseicapillus,3,Forest,N
+Professor,Myiothlypis leucoblephara,5,Generalists,Y
+Professor,Leptopogon amaurocephalus,1,Generalists,N
+Professor,Heliobletus contaminatus,2,Forest,Y
+Professor,Xenops minutus,1,Forest,N
+Professor,Manacus manacus,1,Forest,N
+Professor,Mionectes rufiventris,1,Generalists,Y
+Professor,Haplospiza unicolor,5,Forest,Y
+Professor,Trichothraupis melanops,4,Generalists,N
+Professor,Lepidocolaptes fuscus,4,Forest,Y
+Professor,Lochmias nematura,1,Generalists,N
+Professor,Conopophaga lineata,4,Generalists,Y
+Professor,Schiffornis virescens,3,Forest,Y
+Professor,Chiroxiphia caudata,5,Generalists,Y
+Professor,Tachyphonus coronatus,2,Generalists,Y
+Professor,Tolmomyias sulphurescens,2,Generalists,N
+Professor,Euphonia pectoralis,1,Forest,Y
+Professor,Pyriglena leucoptera,8,Forest,Y
+Professor,Syndactyla rufosuperciliata,3,Generalists,N
+Professor,Saltator similis,1,Generalists,N
+Professor,Dendrocolaptes platyrostris,2,Forest,N
+Professor,Habia rubica,1,Forest,N
+Professor,Automolus leucophthalmus,1,Generalists,Y
+Professor,Turdus albicollis,1,Generalists,N
+Professor,Turdus rufiventris,2,Generalists,N
+Professor,Grallaria varia,2,Generalists,N
+Professor,Phaethornis eurynome,2,Forest,Y
+Professor,Thalurania glaucopis,1,Forest,Y
+Professor,Amazilia versicolor,1,Forest,N
+Radialista,Basileuterus culicivorus,18,Generalists,N
+Radialista,Platyrinchus mystaceus,2,Generalists,N
+Radialista,Mionectes rufiventris,5,Generalists,Y
+Radialista,Phylloscartes ventralis,1,Generalists,N
+Radialista,Lathrotriccus euleri,4,Generalists,N
+Radialista,Myiothlypis leucoblephara,7,Generalists,Y
+Radialista,Tolmomyias sulphurescens,2,Generalists,N
+Radialista,Leptopogon amaurocephalus,2,Generalists,N
+Radialista,Dysithamnus mentalis,1,Generalists,N
+Radialista,Synallaxis ruficapilla,3,Generalists,Y
+Radialista,Tachyphonus coronatus,16,Generalists,Y
+Radialista,Conopophaga lineata,17,Generalists,Y
+Radialista,Thlypopsis sordida,1,Generalists,N
+Radialista,Picumnus temminckii,1,Generalists,Y
+Radialista,Lepidocolaptes fuscus,5,Forest,Y
+Radialista,Thamnophilus caerulescens,5,Generalists,N
+Radialista,Chiroxiphia caudata,1,Generalists,Y
+Radialista,Arremon semitorquatus,2,Generalists,Y
+Radialista,Syndactyla rufosuperciliata,6,Generalists,N
+Radialista,Pachyramphus polychopterus,1,Generalists,N
+Radialista,Automolus leucophthalmus,1,Generalists,Y
+Radialista,Tangara sayaca,1,Generalists,N
+Radialista,Trichothraupis melanops,5,Generalists,N
+Radialista,Cyclarhis gujanensis,1,Generalists,N
+Radialista,Turdus rufiventris,18,Generalists,N
+Radialista,Turdus albicollis,2,Generalists,N
+Radialista,Saltator similis,1,Generalists,N
+Radialista,Geotrygon montana,2,Forest,N
+Radialista,Leptotila rufaxilla,1,Generalists,N
+Radialista,Micrastur ruficollis,3,Forest,N
+Radialista,Phaethornis pretrei,1,Generalists,N
+Radialista,Thalurania glaucopis,2,Forest,Y
+Radialista,Amazilia lactea,1,Generalists,N
+Radji,Basileuterus culicivorus,11,Generalists,N
+Radji,Myiothlypis leucoblephara,4,Generalists,Y
+Radji,Sittasomus griseicapillus,1,Forest,N
+Radji,Dysithamnus mentalis,2,Generalists,N
+Radji,Lathrotriccus euleri,1,Generalists,N
+Radji,Synallaxis ruficapilla,2,Generalists,Y
+Radji,Trichothraupis melanops,6,Generalists,N
+Radji,Conopophaga lineata,9,Generalists,Y
+Radji,Tachyphonus coronatus,1,Generalists,Y
+Radji,Thamnophilus caerulescens,3,Generalists,N
+Radji,Chiroxiphia caudata,2,Generalists,Y
+Radji,Syndactyla rufosuperciliata,1,Generalists,N
+Radji,Tangara sayaca,1,Generalists,N
+Radji,Automolus leucophthalmus,7,Generalists,Y
+Radji,Turdus rufiventris,16,Generalists,N
+Radji,Turdus albicollis,7,Generalists,N
+Radji,Saltator similis,1,Generalists,N
+Radji,Leptotila rufaxilla,2,Generalists,N
+Radji,Thalurania glaucopis,7,Forest,Y
+Radji,Phaethornis pretrei,1,Generalists,N
+Radji,Sporophila caerulescens,1,Generalists,N
+Reizinho,Phaethornis eurynome,1,Forest,Y
+Reizinho,Platyrinchus mystaceus,3,Generalists,N
+Reizinho,Myiothlypis leucoblephara,1,Generalists,Y
+Reizinho,Cranioleuca pallida,1,Generalists,Y
+Reizinho,Basileuterus culicivorus,4,Generalists,N
+Reizinho,Dysithamnus mentalis,5,Generalists,N
+Reizinho,Sittasomus griseicapillus,1,Forest,N
+Reizinho,Conopophaga lineata,4,Generalists,Y
+Reizinho,Mionectes rufiventris,1,Generalists,Y
+Reizinho,Synallaxis ruficapilla,2,Generalists,Y
+Reizinho,Trichothraupis melanops,5,Generalists,N
+Reizinho,Lepidocolaptes fuscus,4,Forest,Y
+Reizinho,Thamnophilus caerulescens,2,Generalists,N
+Reizinho,Schiffornis virescens,1,Forest,Y
+Reizinho,Cyclarhis gujanensis,1,Generalists,N
+Reizinho,Syndactyla rufosuperciliata,2,Generalists,N
+Reizinho,Turdus leucomelas,1,Generalists,N
+Reizinho,Turdus rufiventris,1,Generalists,N
+Reizinho,Pyriglena leucoptera,2,Forest,Y
+Reizinho,Tachyphonus coronatus,1,Generalists,Y
+Reizinho,Chiroxiphia caudata,1,Generalists,Y
+Reizinho,Veniliornis spilogaster,2,Generalists,Y
+Reizinho,Leptopogon amaurocephalus,1,Generalists,N
+T1,Thalurania glaucopis,3,Forest,Y
+T1,Phaethornis eurynome,1,Forest,Y
+T1,Platyrinchus mystaceus,6,Generalists,N
+T1,Hemitriccus orbitatus,4,Forest,Y
+T1,Hemitriccus diops,1,Forest,Y
+T1,Xenops minutus,1,Forest,N
+T1,Myiothlypis leucoblephara,24,Generalists,Y
+T1,Chiroxiphia caudata,18,Generalists,Y
+T1,Conopophaga lineata,8,Generalists,Y
+T1,Sittasomus griseicapillus,6,Forest,N
+T1,Haplospiza unicolor,2,Forest,Y
+T1,Neopelma chrysolophum,1,Forest,Y
+T1,Dysithamnus mentalis,3,Generalists,N
+T1,Schiffornis virescens,5,Forest,Y
+T1,Lepidocolaptes fuscus,7,Forest,Y
+T1,Trichothraupis melanops,12,Generalists,N
+T1,Lochmias nematura,1,Generalists,N
+T1,Pyriglena leucoptera,5,Forest,Y
+T1,Thamnophilus caerulescens,2,Generalists,N
+T1,Tachyphonus coronatus,3,Generalists,Y
+T1,Sclerurus scansor,8,Forest,Y
+T1,Turdus rufiventris,6,Generalists,N
+T1,Philydor atricapillus,2,Forest,Y
+T1,Habia rubica,1,Forest,N
+T1,Philydor rufus,1,Forest,N
+T1,Turdus albicollis,15,Generalists,N
+T1,Turdus amaurochalinus,2,Generalists,N
+T1,Dendrocolaptes platyrostris,1,Forest,N
+T1,Platycichla flavipes,1,Forest,N
+T1,Micrastur ruficollis,2,Forest,N
+T2,Phaethornis eurynome,6,Forest,Y
+T2,Platyrinchus mystaceus,5,Generalists,N
+T2,Hemitriccus diops,2,Forest,Y
+T2,Myiothlypis leucoblephara,9,Generalists,Y
+T2,Hemitriccus orbitatus,1,Forest,Y
+T2,Chiroxiphia caudata,15,Generalists,Y
+T2,Dysithamnus mentalis,3,Generalists,N
+T2,Mionectes rufiventris,1,Generalists,Y
+T2,Syndactyla rufosuperciliata,3,Generalists,N
+T2,Xenops minutus,1,Forest,N
+T2,Myiobius barbatus,2,Forest,N
+T2,Leptopogon amaurocephalus,1,Generalists,N
+T2,Neopelma chrysolophum,1,Forest,Y
+T2,Schiffornis virescens,3,Forest,Y
+T2,Philydor atricapillus,4,Forest,Y
+T2,Sittasomus griseicapillus,2,Forest,N
+T2,Trichothraupis melanops,8,Generalists,N
+T2,Conopophaga lineata,2,Generalists,Y
+T2,Lepidocolaptes fuscus,3,Forest,Y
+T2,Cnemotriccus fuscatus,1,Forest,N
+T2,Sclerurus scansor,2,Forest,Y
+T2,Pyriglena leucoptera,4,Forest,Y
+T2,Attila rufus,1,Forest,Y
+T2,Saltator similis,3,Generalists,N
+T2,Philydor rufus,3,Forest,N
+T2,Turdus albicollis,6,Generalists,N
+T2,Turdus amaurochalinus,1,Generalists,N
+T2,Turdus rufiventris,3,Generalists,N
+T2,Platycichla flavipes,2,Forest,N
+T2,Chamaeza campanisona,1,Forest,N
+T2,Dendrocolaptes platyrostris,1,Forest,N
+T2,Thalurania glaucopis,2,Forest,Y
+T2,Synallaxis ruficapilla,1,Generalists,Y
+T2,Drymophila ochropyga,1,Forest,Y
+T3,Phaethornis eurynome,11,Forest,Y
+T3,Platyrinchus mystaceus,8,Generalists,N
+T3,Myiobius barbatus,3,Forest,N
+T3,Hemitriccus diops,5,Forest,Y
+T3,Hemitriccus orbitatus,4,Forest,Y
+T3,Haplospiza unicolor,3,Forest,Y
+T3,Myiothlypis leucoblephara,8,Generalists,Y
+T3,Neopelma chrysolophum,2,Forest,Y
+T3,Dysithamnus mentalis,6,Generalists,N
+T3,Mionectes rufiventris,2,Generalists,Y
+T3,Sittasomus griseicapillus,10,Forest,N
+T3,Conopophaga lineata,6,Generalists,Y
+T3,Chiroxiphia caudata,24,Generalists,Y
+T3,Synallaxis ruficapilla,2,Generalists,Y
+T3,Basileuterus culicivorus,2,Generalists,N
+T3,Xenops minutus,1,Forest,N
+T3,Cnemotriccus fuscatus,3,Forest,N
+T3,Tolmomyias sulphurescens,1,Generalists,N
+T3,Trichothraupis melanops,15,Generalists,N
+T3,Schiffornis virescens,6,Forest,Y
+T3,Tachyphonus coronatus,3,Generalists,Y
+T3,Lepidocolaptes fuscus,4,Forest,Y
+T3,Syndactyla rufosuperciliata,2,Generalists,N
+T3,Pyriglena leucoptera,10,Forest,Y
+T3,Myrmoderus squamosus,1,Forest,Y
+T3,Leptopogon amaurocephalus,1,Generalists,N
+T3,Saltator similis,3,Generalists,N
+T3,Sclerurus scansor,2,Forest,Y
+T3,Turdus albicollis,13,Generalists,N
+T3,Turdus rufiventris,1,Generalists,N
+T3,Platycichla flavipes,5,Forest,N
+T3,Dendrocolaptes platyrostris,1,Forest,N
+T3,Micrastur ruficollis,2,Forest,N
+T3,Thalurania glaucopis,2,Forest,Y
+T3,Chamaeza campanisona,1,Forest,N
+T3,Picumnus temminckii,1,Generalists,Y
+Takimoto,Phaethornis eurynome,2,Forest,Y
+Takimoto,Platyrinchus mystaceus,2,Generalists,N
+Takimoto,Myiobius atricaudus,2,Forest,N
+Takimoto,Cnemotriccus fuscatus,4,Forest,N
+Takimoto,Lepidocolaptes fuscus,12,Forest,Y
+Takimoto,Myiothlypis leucoblephara,4,Generalists,Y
+Takimoto,Basileuterus culicivorus,1,Generalists,N
+Takimoto,Xenops minutus,2,Forest,N
+Takimoto,Leptopogon amaurocephalus,2,Generalists,N
+Takimoto,Dysithamnus mentalis,4,Generalists,N
+Takimoto,Tolmomyias sulphurescens,1,Generalists,N
+Takimoto,Tachyphonus coronatus,6,Generalists,Y
+Takimoto,Conopophaga lineata,5,Generalists,Y
+Takimoto,Schiffornis virescens,3,Forest,Y
+Takimoto,Chiroxiphia caudata,15,Generalists,Y
+Takimoto,Trichothraupis melanops,9,Generalists,N
+Takimoto,Sittasomus griseicapillus,1,Forest,N
+Takimoto,Myrmoderus squamosus,1,Forest,Y
+Takimoto,Mionectes rufiventris,1,Generalists,Y
+Takimoto,Pyriglena leucoptera,7,Forest,Y
+Takimoto,Automolus leucophthalmus,2,Generalists,Y
+Takimoto,Sclerurus scansor,6,Forest,Y
+Takimoto,Syndactyla rufosuperciliata,3,Generalists,N
+Takimoto,Saltator similis,1,Generalists,N
+Takimoto,Turdus albicollis,20,Generalists,N
+Takimoto,Turdus rufiventris,6,Generalists,N
+Takimoto,Dendrocolaptes platyrostris,2,Forest,N
+Takimoto,Platycichla flavipes,1,Forest,N
+Takimoto,Leptotila verreauxi,1,Generalists,N
+Takimoto,Celeus flavescens,1,Generalists,N
+Takimoto,Leptotila rufaxilla,1,Generalists,N
+Teomar,Basileuterus culicivorus,2,Generalists,N
+Teomar,Platyrinchus mystaceus,11,Generalists,N
+Teomar,Sittasomus griseicapillus,4,Forest,N
+Teomar,Dysithamnus mentalis,3,Generalists,N
+Teomar,Mionectes rufiventris,2,Generalists,Y
+Teomar,Lepidocolaptes fuscus,6,Forest,Y
+Teomar,Myiothlypis leucoblephara,4,Generalists,Y
+Teomar,Conopophaga lineata,6,Generalists,Y
+Teomar,Anabacerthia amaurotis,5,Forest,Y
+Teomar,Schiffornis virescens,3,Forest,Y
+Teomar,Myrmoderus squamosus,1,Forest,Y
+Teomar,Trichothraupis melanops,8,Generalists,N
+Teomar,Chiroxiphia caudata,6,Generalists,Y
+Teomar,Pyriglena leucoptera,9,Forest,Y
+Teomar,Habia rubica,4,Forest,N
+Teomar,Automolus leucophthalmus,4,Generalists,Y
+Teomar,Sclerurus scansor,5,Forest,Y
+Teomar,Syndactyla rufosuperciliata,1,Generalists,N
+Teomar,Lochmias nematura,1,Generalists,N
+Teomar,Turdus albicollis,3,Generalists,N
+Teomar,Thalurania glaucopis,4,Forest,Y
+Teomar,Rupornis magnirostris,1,Generalists,N
+Tereza,Phaethornis eurynome,5,Forest,Y
+Tereza,Platyrinchus mystaceus,3,Generalists,N
+Tereza,Basileuterus culicivorus,3,Generalists,N
+Tereza,Chiroxiphia caudata,1,Generalists,Y
+Tereza,Thamnophilus caerulescens,1,Generalists,N
+Tereza,Sittasomus griseicapillus,1,Forest,N
+Tereza,Dysithamnus mentalis,2,Generalists,N
+Tereza,Synallaxis ruficapilla,2,Generalists,Y
+Tereza,Conopophaga lineata,3,Generalists,Y
+Tereza,Lepidocolaptes fuscus,3,Forest,Y
+Tereza,Syndactyla rufosuperciliata,2,Generalists,N
+Tereza,Trichothraupis melanops,8,Generalists,N
+Tereza,Tachyphonus coronatus,1,Generalists,Y
+Tereza,Malacoptila striata,2,Generalists,Y
+Tereza,Turdus rufiventris,9,Generalists,N
+Tereza,Veniliornis spilogaster,1,Generalists,Y
+Tereza,Dendrocolaptes platyrostris,1,Forest,N
+Tereza,Saltator similis,1,Generalists,N
+Tereza,Turdus amaurochalinus,1,Generalists,N
+Tereza,Batara cinerea,2,Generalists,N
+Torres,Platyrinchus mystaceus,4,Generalists,N
+Torres,Basileuterus culicivorus,4,Generalists,N
+Torres,Dysithamnus mentalis,4,Generalists,N
+Torres,Sittasomus griseicapillus,1,Forest,N
+Torres,Conopophaga lineata,8,Generalists,Y
+Torres,Lepidocolaptes fuscus,1,Forest,Y
+Torres,Syndactyla rufosuperciliata,1,Generalists,N
+Torres,Trichothraupis melanops,1,Generalists,N
+Torres,Sclerurus scansor,3,Forest,Y
+Torres,Platycichla flavipes,4,Forest,N
+Torres,Turdus albicollis,3,Generalists,N
+Torres,Dendrocolaptes platyrostris,2,Forest,N
+Torres,Turdus leucomelas,1,Generalists,N
+Torres,Thalurania glaucopis,14,Forest,Y
+Torres,Phaethornis eurynome,3,Forest,Y
+TR,Thalurania glaucopis,2,Forest,Y
+TR,Platyrinchus mystaceus,4,Generalists,N
+TR,Haplospiza unicolor,4,Forest,Y
+TR,Myiothlypis leucoblephara,4,Generalists,Y
+TR,Hemitriccus orbitatus,1,Forest,Y
+TR,Chiroxiphia caudata,8,Generalists,Y
+TR,Basileuterus culicivorus,2,Generalists,N
+TR,Tolmomyias sulphurescens,1,Generalists,N
+TR,Myrmoderus squamosus,1,Forest,Y
+TR,Xenops minutus,1,Forest,N
+TR,Trichothraupis melanops,6,Generalists,N
+TR,Sittasomus griseicapillus,5,Forest,N
+TR,Trogon rufus,1,Forest,N
+TR,Schiffornis virescens,3,Forest,Y
+TR,Tachyphonus coronatus,3,Generalists,Y
+TR,Habia rubica,1,Forest,N
+TR,Pyriglena leucoptera,2,Forest,Y
+TR,Lepidocolaptes fuscus,2,Forest,Y
+TR,Sclerurus scansor,3,Forest,Y
+TR,Turdus albicollis,7,Generalists,N
+TR,Chamaeza campanisona,1,Forest,N
+TR,Platycichla flavipes,1,Forest,N
+TR,Phaethornis eurynome,1,Forest,Y
+TR,Leptotila verreauxi,1,Generalists,N
+Yoko,Platyrinchus mystaceus,9,Generalists,N
+Yoko,Dysithamnus mentalis,12,Generalists,N
+Yoko,Basileuterus culicivorus,2,Generalists,N
+Yoko,Myiothlypis leucoblephara,3,Generalists,Y
+Yoko,Mionectes rufiventris,3,Generalists,Y
+Yoko,Lathrotriccus euleri,5,Generalists,N
+Yoko,Synallaxis ruficapilla,11,Generalists,Y
+Yoko,Syndactyla rufosuperciliata,1,Generalists,N
+Yoko,Conopophaga lineata,20,Generalists,Y
+Yoko,Trichothraupis melanops,13,Generalists,N
+Yoko,Schiffornis virescens,2,Forest,Y
+Yoko,Chiroxiphia caudata,8,Generalists,Y
+Yoko,Tachyphonus coronatus,13,Generalists,Y
+Yoko,Lepidocolaptes fuscus,1,Forest,Y
+Yoko,Picumnus temminckii,1,Generalists,Y
+Yoko,Myiarchus swainsoni,1,Generalists,N
+Yoko,Automolus leucophthalmus,7,Generalists,Y
+Yoko,Cyclarhis gujanensis,1,Generalists,N
+Yoko,Sclerurus scansor,1,Forest,Y
+Yoko,Saltator similis,2,Generalists,N
+Yoko,Turdus albicollis,9,Generalists,N
+Yoko,Turdus rufiventris,12,Generalists,N
+Yoko,Leptotila verreauxi,1,Generalists,N
+Yoko,Thalurania glaucopis,4,Forest,Y

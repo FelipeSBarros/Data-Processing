@@ -1,0 +1,128 @@
+id_site,familia,especie,abundancia,especialista_floresta,endemismo
+Dragao,Cricetidae,Akodon montensis,39,Nao,OB
+Dragao,Cricetidae,Bibimys labiosus,6,Nao,OB
+Dragao,Cricetidae,Brucepattersonius soricinus ,12,Sim,MA-BR
+Dragao,Cricetidae,Calomys tener,1,Nao,OB
+Dragao,Cricetidae,Delomys sublineatus,2,Sim,MA-BR
+Dragao,Didelphidae,Marmosops incanus,10,Sim,MA-BR
+Dragao,Didelphidae,Monodelphis iheringi,10,Sim,MA-BR
+Dragao,Cricetidae,Oligoryzomys flavescens,2,Nao,OB
+Dragao,Cricetidae,Oligoryzomys nigripes,156,Nao,OB
+Dragao,Cricetidae,Sooretamys angouya,1,Sim,"MA-BR, MA-PA, MA-AR"
+Tucano,Cricetidae,Akodon montensis,46,Nao,OB
+Tucano,Cricetidae,Bibimys labiosus,5,Nao,OB
+Tucano,Cricetidae,Brucepattersonius soricinus ,3,Sim,MA-BR
+Tucano,Cricetidae,Calomys tener,1,Nao,OB
+Tucano,Cricetidae,Delomys sublineatus,7,Sim,MA-BR
+Tucano,Didelphidae,Gracilinanus microtarsus,1,Sim,MA-BR
+Tucano,Didelphidae,Marmosops incanus,15,Sim,MA-BR
+Tucano,Cricetidae,Necromys lasiurus,4,Nao,OB
+Tucano,Cricetidae,Oligoryzomys flavescens,1,Nao,OB
+Tucano,Cricetidae,Oligoryzomys nigripes,60,Nao,OB
+Tucano,Cricetidae,Oxymycterus dasytrichus,1,Sim,MA-BR
+Tucano,Cricetidae,Oxymycterus judex,1,Sim,D
+Tucano,Muridae,Rattus rattus,1,Nao,OB
+Tucano,Cricetidae,Sooretamys angouya,2,Sim,"MA-BR, MA-PA, MA-AR"
+Dito Andre,Cricetidae,Akodon montensis,46,Nao,OB
+Dito Andre,Cricetidae,Bibimys labiosus,1,Nao,OB
+Dito Andre,Cricetidae,Brucepattersonius soricinus ,15,Sim,MA-BR
+Dito Andre,Cricetidae,Calomys tener,5,Nao,OB
+Dito Andre,Didelphidae,Gracilinanus microtarsus,1,Sim,MA-BR
+Dito Andre,Didelphidae,Marmosops incanus,6,Sim,MA-BR
+Dito Andre,Cricetidae,Necromys lasiurus,2,Nao,OB
+Dito Andre,Cricetidae,Oligoryzomys nigripes,73,Nao,OB
+Dito Andre,Cricetidae,Sooretamys angouya,4,Sim,"MA-BR, MA-PA, MA-AR"
+Horacio,Cricetidae,Akodon montensis,4,Nao,OB
+Horacio,Cricetidae,Akodon serrensis,1,Sim,D
+Horacio,Cricetidae,Brucepattersonius soricinus ,19,Sim,MA-BR
+Horacio,Cricetidae,Delomys sublineatus,23,Sim,MA-BR
+Horacio,Cricetidae,Euryoryzomys russatus,28,Sim,"MA-BR, MA-PA, MA-AR"
+Horacio,Cricetidae,Drymoreomys albimaculatus,1,Sim,MA-BR
+Horacio,Didelphidae,Gracilinanus microtarsus,2,Sim,MA-BR
+Horacio,Cricetidae,Juliomys ossitenuis/pictipes,1,Sim,"MA-BR, MA-AR"
+Horacio,Didelphidae,Marmosops incanus,12,Sim,MA-BR
+Horacio,Didelphidae,Monodelphis americana/scalops,3,Sim,"MA-BR, MA-AR"
+Horacio,Cricetidae,Oligoryzomys flavescens,1,Nao,OB
+Horacio,Cricetidae,Oligoryzomys nigripes,27,Nao,OB
+Horacio,Cricetidae,Sooretamys angouya,5,Sim,"MA-BR, MA-PA, MA-AR"
+Horacio,Cricetidae,Thaptomys nigrita,19,Sim,"MA-BR, MA-PA, MA-AR"
+Jeanzao Norte,Cricetidae,Akodon montensis,6,Nao,OB
+Jeanzao Norte,Cricetidae,Brucepattersonius soricinus ,1,Sim,MA-BR
+Jeanzao Norte,Cricetidae,Calomys tener,2,Nao,OB
+Jeanzao Norte,Cricetidae,Delomys sublineatus,8,Sim,MA-BR
+Jeanzao Norte,Cricetidae,Euryoryzomys russatus,16,Sim,"MA-BR, MA-PA, MA-AR"
+Jeanzao Norte,Didelphidae,Gracilinanus microtarsus,3,Sim,MA-BR
+Jeanzao Norte,Cricetidae,Juliomys ossitenuis/pictipes,1,Sim,"MA-BR, MA-AR"
+Jeanzao Norte,Didelphidae,Marmosops incanus,21,Sim,MA-BR
+Jeanzao Norte,Didelphidae,Monodelphis americana/scalops,4,Sim,"MA-BR, MA-AR"
+Jeanzao Norte,Cricetidae,Oligoryzomys flavescens,2,Nao,OB
+Jeanzao Norte,Cricetidae,Oligoryzomys nigripes,22,Nao,OB
+Jeanzao Norte,Didelphidae,Philander frenatus,16,Sim,"MA-BR, MA-PA, MA-AR"
+Jeanzao Norte,Cricetidae,Rhipidomys mastacalis,2,Sim,MA-BR
+Jeanzao Norte,Cricetidae,Sooretamys angouya,1,Sim,"MA-BR, MA-PA, MA-AR"
+Romulo,Cricetidae,Akodon montensis,13,Nao,OB
+Romulo,Cricetidae,Bibimys labiosus,1,Nao,OB
+Romulo,Cricetidae,Brucepattersonius soricinus ,13,Sim,MA-BR
+Romulo,Cricetidae,Calomys tener,2,Nao,OB
+Romulo,Cricetidae,Delomys sublineatus,16,Sim,MA-BR
+Romulo,Cricetidae,Euryoryzomys russatus,28,Sim,"MA-BR, MA-PA, MA-AR"
+Romulo,Didelphidae,Gracilinanus microtarsus,1,Sim,MA-BR
+Romulo,Cricetidae,Juliomys ossitenuis/pictipes,2,Sim,"MA-BR, MA-AR"
+Romulo,Didelphidae,Marmosops incanus,14,Sim,MA-BR
+Romulo,Didelphidae,Monodelphis americana/scalops,5,Sim,"MA-BR, MA-AR"
+Romulo,Didelphidae,Monodelphis macae,1,Sim,D
+Romulo,Cricetidae,Oligoryzomys flavescens,1,Nao,OB
+Romulo,Cricetidae,Oligoryzomys nigripes,92,Nao,OB
+Romulo,Didelphidae,Philander frenatus,2,Sim,"MA-BR, MA-PA, MA-AR"
+Romulo,Cricetidae,Sooretamys angouya,1,Sim,"MA-BR, MA-PA, MA-AR"
+Romulo,Cricetidae,Thaptomys nigrita,23,Sim,"MA-BR, MA-PA, MA-AR"
+M1 (continuo),Cricetidae,Akodon montensis,159,Nao,OB
+M1 (continuo),Cricetidae,Bibimys labiosus,2,Nao,OB
+M1 (continuo),Cricetidae,Brucepattersonius soricinus ,32,Sim,MA-BR
+M1 (continuo),Cricetidae,Delomys sublineatus,68,Sim,MA-BR
+M1 (continuo),Cricetidae,Euryoryzomys russatus,47,Sim,"MA-BR, MA-PA, MA-AR"
+M1 (continuo),Didelphidae,Gracilinanus microtarsus,4,Sim,MA-BR
+M1 (continuo),Cricetidae,Juliomys ossitenuis/pictipes,1,Sim,"MA-BR, MA-AR"
+M1 (continuo),Didelphidae,Marmosops incanus,18,Sim,MA-BR
+M1 (continuo),Didelphidae,Micoureus paraguayana,2,Sim,"MA-BR, MA-PA, MA-AR"
+M1 (continuo),Didelphidae,Monodelphis americana/scalops,1,Sim,"MA-BR, MA-AR"
+M1 (continuo),Didelphidae,Monodelphis iheringi,12,Sim,MA-BR
+M1 (continuo),Cricetidae,Nectomys squamipes,1,Nao,"MA-BR, MA-PA, MA-AR, OB"
+M1 (continuo),Cricetidae,Oligoryzomys nigripes,110,Nao,OB
+M1 (continuo),Cricetidae,Oxymycterus judex,1,Sim,D
+M1 (continuo),Cricetidae,Sooretamys angouya,12,Sim,"MA-BR, MA-PA, MA-AR"
+M1 (continuo),Cricetidae,Thaptomys nigrita,34,Sim,"MA-BR, MA-PA, MA-AR"
+M2 (continuo),Cricetidae,Akodon montensis,77,Nao,OB
+M2 (continuo),Cricetidae,Bibimys labiosus,1,Nao,OB
+M2 (continuo),Cricetidae,Blarinomys breviceps,1,Sim,"MA-BR, MA-AR"
+M2 (continuo),Cricetidae,Brucepattersonius soricinus ,29,Sim,MA-BR
+M2 (continuo),Cricetidae,Delomys sublineatus,49,Sim,MA-BR
+M2 (continuo),Cricetidae,Euryoryzomys russatus,58,Sim,"MA-BR, MA-PA, MA-AR"
+M2 (continuo),Didelphidae,Gracilinanus microtarsus,7,Sim,MA-BR
+M2 (continuo),Cricetidae,Juliomys ossitenuis/pictipes,4,Sim,"MA-BR, MA-AR"
+M2 (continuo),Didelphidae,Marmosops incanus,44,Sim,MA-BR
+M2 (continuo),Didelphidae,Micoureus paraguayana,1,Sim,"MA-BR, MA-PA, MA-AR"
+M2 (continuo),Didelphidae,Monodelphis americana/scalops,3,Sim,"MA-BR, MA-AR"
+M2 (continuo),Didelphidae,Monodelphis iheringi,7,Sim,MA-BR
+M2 (continuo),Didelphidae,Monodelphis macae,1,Sim,D
+M2 (continuo),Cricetidae,Oligoryzomys nigripes,108,Nao,OB
+M2 (continuo),Echimyidae,Phyllomys nigrispinus,1,Sim,MA-BR
+M2 (continuo),Cricetidae,Sooretamys angouya,3,Sim,"MA-BR, MA-PA, MA-AR"
+M2 (continuo),Cricetidae,Thaptomys nigrita,15,Sim,"MA-BR, MA-PA, MA-AR"
+M3 (continuo),Cricetidae,Akodon montensis,45,Nao,OB
+M3 (continuo),Cricetidae,Blarinomys breviceps,1,Sim,"MA-BR, MA-AR"
+M3 (continuo),Cricetidae,Brucepattersonius soricinus ,9,Sim,MA-BR
+M3 (continuo),Cricetidae,Delomys sublineatus,74,Sim,MA-BR
+M3 (continuo),Cricetidae,Euryoryzomys russatus,46,Sim,"MA-BR, MA-PA, MA-AR"
+M3 (continuo),Cricetidae,Drymoreomys albimaculatus,2,Sim,MA-BR
+M3 (continuo),Didelphidae,Gracilinanus microtarsus,10,Sim,MA-BR
+M3 (continuo),Cricetidae,Juliomys ossitenuis/pictipes,11,Sim,"MA-BR, MA-AR"
+M3 (continuo),Didelphidae,Marmosops incanus,14,Sim,MA-BR
+M3 (continuo),Didelphidae,Marmosops paulensis,8,Sim,MA-BR
+M3 (continuo),Didelphidae,Micoureus paraguayana,1,Sim,"MA-BR, MA-PA, MA-AR"
+M3 (continuo),Didelphidae,Monodelphis americana/scalops,26,Sim,"MA-BR, MA-AR"
+M3 (continuo),Didelphidae,Monodelphis iheringi,9,Sim,MA-BR
+M3 (continuo),Didelphidae,Monodelphis macae,9,Sim,D
+M3 (continuo),Cricetidae,Oligoryzomys nigripes,90,Nao,OB
+M3 (continuo),Cricetidae,Sooretamys angouya,12,Sim,"MA-BR, MA-PA, MA-AR"
+M3 (continuo),Cricetidae,Thaptomys nigrita,102,Sim,"MA-BR, MA-PA, MA-AR"
